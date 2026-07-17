@@ -11,8 +11,7 @@ from google.genai import types
 # Load environment variables
 load_dotenv()
 
-# Initialize Gemini client using Vertex AI with Application Default Credentials
-# This completely bypasses the AI Studio free tier limits by routing through their paid GCP project.
+# Initialize Gemini client using Vertex AI
 client = genai.Client(vertexai=True, project="ai-pipeline-461818", location="us-central1")
 
 NEWS_SOURCES = [
@@ -86,9 +85,11 @@ def analyze_with_gemini(articles):
   For each Story, provide:
   1. A neutral 'headline'
   2. A 'summary' (2-3 sentences)
-  3. A 'biasDistribution' object counting how many sources from each bias covered it (Left, Center-Left, Center, Center-Right, Right)
-  4. A 'communityCoverage' object counting how many sources from each community covered it (Greek, Turkish, English)
-  5. The list of 'articles' (including source, title, link, bias, community) that belong to this story.
+  3. A 'shortAnalysis' (string) providing a short analysis commenting on differences between reportings from the different political views and communities. Look for agreements and disagreements.
+  4. A 'factualityStatement' (string) providing a factuality statement summarizing the core verified facts of the event based on your search and the articles.
+  5. A 'biasDistribution' object counting how many sources from each bias covered it (Left, Center-Left, Center, Center-Right, Right)
+  6. A 'communityCoverage' object counting how many sources from each community covered it (Greek, Turkish, English)
+  7. The list of 'articles' (including source, title, link, bias, community) that belong to this story.
   
   Return the output as a clean JSON array of story objects. Do not include markdown formatting like ```json.
   
@@ -116,8 +117,8 @@ def analyze_with_gemini(articles):
             return json.loads(text)
         except Exception as e:
             error_msg = str(e)
-            if '429' in error_msg or 'Quota' in error_msg:
-                print(f"[Attempt {attempt + 1}] Rate limit hit: {error_msg}")
+            if '429' in error_msg or 'Quota' in error_msg or '503' in error_msg or 'UNAVAILABLE' in error_msg:
+                print(f"[Attempt {attempt + 1}] Transient error or rate limit hit: {error_msg}")
                 print("Waiting 60 seconds before retrying...")
                 time.sleep(60)
                 attempt += 1

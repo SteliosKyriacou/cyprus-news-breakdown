@@ -133,6 +133,18 @@ function App() {
               <div className="story-header">
                 <h2 className="story-title">{story.headline}</h2>
                 <p className="story-summary">{story.summary}</p>
+                {story.factualityStatement && (
+                  <div className="story-factuality" style={{ marginTop: '1rem', padding: '1rem', background: 'rgba(59, 130, 246, 0.1)', borderRadius: '8px', borderLeft: '4px solid #3b82f6' }}>
+                    <h4 style={{ margin: '0 0 0.5rem 0', display: 'flex', alignItems: 'center', gap: '0.5rem', color: '#3b82f6' }}>Verified Facts</h4>
+                    <p style={{ margin: 0, fontSize: '0.95rem' }}>{story.factualityStatement}</p>
+                  </div>
+                )}
+                {story.shortAnalysis && (
+                  <div className="story-analysis" style={{ marginTop: '1rem', padding: '1rem', background: 'rgba(168, 85, 247, 0.1)', borderRadius: '8px', borderLeft: '4px solid #a855f7' }}>
+                    <h4 style={{ margin: '0 0 0.5rem 0', display: 'flex', alignItems: 'center', gap: '0.5rem', color: '#a855f7' }}>Media Analysis</h4>
+                    <p style={{ margin: 0, fontSize: '0.95rem' }}>{story.shortAnalysis}</p>
+                  </div>
+                )}
               </div>
 
               <div className="metrics-container">
