@@ -36,8 +36,8 @@ async function fetchAllFeeds() {
       console.log(`Fetching from ${source.name}...`);
       const feed = await parser.parseURL(source.url);
       
-      // Get top 15 articles per source to get a good spread of news
-      const topItems = feed.items.slice(0, 15);
+      // Get top 5 articles per source to get a good spread of news without overflowing
+      const topItems = feed.items.slice(0, 5);
       
       topItems.forEach(item => {
         allArticles.push({
@@ -82,19 +82,32 @@ async function analyzeWithGemini(articles) {
   ${JSON.stringify(articlesToAnalyze)}
   `;
 
-  try {
-    const result = await model.generateContent(prompt);
-    const response = await result.response;
-    let text = response.text();
-    
-    // Clean up markdown if model still included it
-    text = text.replace(/^```json/m, '').replace(/```$/m, '').trim();
-    
-    return JSON.parse(text);
-  } catch (error) {
-    console.error("Failed to analyze with Gemini:", error);
-    return [];
+  let attempt = 0;
+  const maxAttempts = 5;
+  while (attempt < maxAttempts) {
+    try {
+      const result = await model.generateContent(prompt);
+      const response = await result.response;
+      let text = response.text();
+      
+      // Clean up markdown if model still included it
+      text = text.replace(/^```json/m, '').replace(/```$/m, '').trim();
+      
+      return JSON.parse(text);
+    } catch (error) {
+      if (error.message && error.message.includes('429')) {
+        console.warn(`[Attempt ${attempt + 1}] Rate limit hit: ${error.message}`);
+        console.warn(`Waiting 60 seconds before retrying...`);
+        await new Promise(resolve => setTimeout(resolve, 60000));
+        attempt++;
+      } else {
+        console.error("Failed to analyze with Gemini:", error);
+        return [];
+      }
+    }
   }
+  console.error("Failed to analyze after maximum retries due to rate limit.");
+  return [];
 }
 
 async function main() {
