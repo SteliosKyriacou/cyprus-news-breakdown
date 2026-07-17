@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-17T20:40:13.960Z",
+  "lastUpdated": "2026-07-17T21:19:52.065Z",
   "stories": [
     {
-      "headline": "Large Fire Destroys Homes in Southern Norway",
-      "summary": "A significant wildfire near Drammen, southern Norway, has destroyed over 100 homes. Firefighters are battling the flames amidst strong winds, with authorities evacuating residents and reporting no major casualties. One firefighter reportedly suffered minor injuries.",
+      "headline": "Major Fire Destroys Homes in Southern Norway",
+      "summary": "A large fire near Drammen, Norway, has destroyed over 100 homes amidst strong winds, making firefighting efforts challenging. Authorities evacuated the affected area, and while there were no reports of casualties, one firefighter sustained injuries.",
       "biasDistribution": {
         "Left": 0,
         "Center-Left": 0,
@@ -31,20 +31,20 @@
           "community": "Greek",
           "bias": "Center-Right",
           "title": "Φωτιά σαρώνει οικισμό στη Νορβηγία: Τουλάχιστον 50 σπίτια στις φλόγες – Ακούστηκαν εκρήξεις, εκκενώνεται η περιοχή",
-          "link": "https://www.philenews.com/kosmos/article/1748190/fotia-saroni-ikismo-sti-norvigia-toulachiston-50-spitia-stis-floges-akoustikan-ekrixis-ekkenonetai-i-periochi/",
+          "link": "https://www.philenews.com/kosmos/article/1748190/fotia-saroni-ikismo-sti-norvigia-toulachiston-50-spitia-stis-floges-akoustikan-ekrixis-ekkenonete-i-periochi/",
           "pubDate": "Fri, 17 Jul 2026 17:02:16 +0000",
           "content": "Μεγάλη πυρκαγιά κατέστρεψε 40 έως 50 σπίτια σε κατοικημένη περιοχή του δήμου Ντράμμεν στη Νορβηγία. Οι ισχυροί άνεμοι δυσκολεύουν την κατάσβεση, στην περιοχή ακούστηκαν εκρήξεις και η Αστυνομία κάλεσε τους κατοίκους να εκκενώσουν άμεσα κλείνοντας πόρτες, παράθυρα και αεραγωγούς λόγω κινδύνου τοξικού καπνού. Δεν υπάρχουν αναφορές για τραυματίες, εκτός από έναν πυροσβέστη, ο οποίος έχει υποστεί […]\nΤο άρθρο Φωτιά σαρώνει οικισμό στη Νορβηγία: Τουλάχιστον 50 σπίτια στις φλόγες – Ακούστηκαν εκρήξεις, εκκενώνεται η περιοχή εμφανίστηκε πρώτα στο Philenews."
         }
       ]
     },
     {
-      "headline": "Powerful Earthquake Strikes Off Mexico Coast, Tsunami Alert Lifted",
-      "summary": "A strong magnitude 7.3 earthquake struck off the coast of Mexico's southernmost state of Chiapas, shaking buildings as far away as Guatemala and El Salvador. While authorities reported no immediate major damage or casualties, a tsunami alert was initially issued for the Pacific region but was subsequently lifted.",
+      "headline": "Powerful Earthquake Strikes Off Mexico's Coast, Felt Across Central America",
+      "summary": "A powerful magnitude 7.3 earthquake struck off the coast of Mexico's southernmost state of Chiapas, causing buildings to shake as far away as Guatemala and El Salvador. Despite the strong tremors and a tsunami warning, authorities reported no immediate casualties or major damage.",
       "biasDistribution": {
-        "Left": 1,
+        "Left": 0,
         "Center-Left": 0,
         "Center": 0,
-        "Center-Right": 1,
+        "Center-Right": 2,
         "Right": 0
       },
       "communityCoverage": {
@@ -63,19 +63,127 @@
           "content": "A powerful magnitude 7.3 earthquake struck off the coast of Mexico’s southernmost state of Chiapas on Friday, shaking buildings as far away as Guatemala and El Salvador, though authorities said there were no immediate reports of casualties or major damage. Mexican President Claudia Sheinbaum said emergency protocols were activated but that neither Chiapas nor the […]"
         },
         {
-          "source": "Haravgi",
+          "source": "Phileleftheros",
           "community": "Greek",
-          "bias": "Left",
-          "title": "Μεξικό: Άρση συναγερμού για τσουνάμι μετά τον σεισμό 7,4 βαθμών",
-          "link": "https://dialogos.com.cy/mexiko-arsi-synagermoy-gia-tsoynami-meta-ton-seismo-74-vathmon/",
-          "pubDate": "Fri, 17 Jul 2026 19:07:45 +0000",
-          "content": "Δεν έχουν αναφερθεί θύματα ή εκτεταμένες καταστροφές μετά τον ισχυρό σεισμό που σημειώθηκε σήμερα στα ανοικτά των νοτιοδυτικών ακτών του Μεξικού κι έγινε επίσης αισθητός σε Γουατεμάλα και Ελ Σαλβαδόρ. Το αμερικανικό κέντρο προειδοποίησης για τσουνάμι στον Ειρηνικό Ωκεανό (PTWC) ενημέρωσε πως δεν υφίσταται πλέον απειλή για τις παράκτιες περιοχές των τριών χωρών. Σύμφωνα με […]\nΜεξικό: Άρση συναγερμού για τσουνάμι μετά τον σεισμό 7,4 βαθμών"
+          "bias": "Center-Right",
+          "title": "Σεισμός στο Μεξικό: Τα κτίρια χορεύουν από τα 7,4 Ρίχτερ και προκαλούν τρόμο – Προειδοποίηση για τσουνάμι – Δείτε βίντεο",
+          "link": "https://www.philenews.com/kosmos/article/1748162/sismos-sto-mexiko-ta-ktiria-chorevoun-apo-ta-74-richter-proidopiisi-gia-tsounami-dite-vinteo/",
+          "pubDate": "Fri, 17 Jul 2026 16:29:03 +0000",
+          "content": "Σεισμική δόνηση μεγέθους 7,4 βαθμών σημειώθηκε σήμερα στα ανοικτά των δυτικών ακτών του Μεξικού, σύμφωνα με το αμερικανικό ινστιτούτο γεωλογικών ερευνών (USGS). Το εστιακό βάθος υπολογίζεται σε περίπου 10 χιλιόμετρα, ενώ το επίκεντρο εντοπίζεται στη θαλάσσια περιοχή 71 χιλιόμετρα νοτιοδυτικά του Πουέρτο Μαδέρο, στην πολιτεία Τσιάπας. Ο σεισμός έγινε ιδιαίτερα αισθητός και στη γειτονική Γουατεμάλα. Μέχρι […]\nΤο άρθρο Σεισμός στο Μεξικό: Τα κτίρια χορεύουν από τα 7,4 Ρίχτερ και προκαλούν τρόμο – Προειδοποίηση για τσουνάμι – Δείτε βίντεο εμφανίστηκε πρώτα στο Philenews."
+        }
+      ]
+    },
+    {
+      "headline": "Cyprus Awarded 46 Blue Flags for Beaches and Marinas",
+      "summary": "Cyprus has been awarded Blue Flags for 46 beaches and two marinas, recognizing their high environmental and quality standards. This prestigious international recognition also highlights that 25 of these beaches offer accessible facilities for people with disabilities.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 2,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 1,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "46 beaches, two marinas currently flying Blue Flag",
+          "link": "https://cyprus-mail.com/2026/07/17/46-beaches-two-marinas-currently-flying-blue-flag",
+          "pubDate": "Fri, 17 Jul 2026 19:46:57 +0300",
+          "content": "Forty-six beaches and two marinas are currently flying the Blue Flag of quality and sustainable management of coasts, and 25 of these beaches offer facilities for people with disabilities, the Cyprus Marine Environment Protection Association (Cymepa) said on Friday. The programme is run by the Foundation for Environmental Education (FEE) and is implemented in more […]"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Γαλάζια Σημαία 2026: 46 κυπριακές παραλίες στη λίστα – Η περιοχή που κυριάρχησε",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748184/galazia-simea-2026-46-kipriakes-paralies-sti-lista-i-periochi-pou-kiriarchise/",
+          "pubDate": "Fri, 17 Jul 2026 16:45:26 +0000",
+          "content": "Γαλάζιες σημαίες σε 46 παραλίες και σε δύο μαρίνες αριθμεί η Κύπρος φέτος, αναφέρει σε ανακοίνωση η CYMEPA, Εθνικός Χειριστής του διεθνούς Προγράμματος Γαλάζια Σημαία στην Κύπρο.  Οπως αναφέρει, μέχρι και τις 17 Ιουλίου 2026, η χώρα μας αριθμεί 46 βραβευμένες παραλίες και δύο μαρίνες που φέρουν τη Γαλάζια Σημαία, “μία από τις σημαντικότερες διεθνείς διακρίσεις […]\nΤο άρθρο Γαλάζια Σημαία 2026: 46 κυπριακές παραλίες στη λίστα – Η περιοχή που κυριάρχησε εμφανίστηκε πρώτα στο Philenews."
+        }
+      ]
+    },
+    {
+      "headline": "Cyprus Supreme Court Grants Certiorari for Review of Telecommunication Data Access Order",
+      "summary": "The Supreme Court has allowed an individual, under investigation for illegal data access and interception, to file an application for a certiorari writ. This move aims to determine the legality of an order that permitted access to their telecommunications data, raising questions about whether the alleged offenses qualify as a 'serious crime'.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 2,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 1,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Supreme Court allows certiorari in illegal data case",
+          "link": "https://cyprus-mail.com/2026/07/17/supreme-court-allows-certiorari-in-illegal-data-case",
+          "pubDate": "Fri, 17 Jul 2026 20:02:23 +0300",
+          "content": "The Supreme Court has allowed a person being investigated for illegal access to information systems, illegal interference with data and illegal interception, to file an application for a certiorari privileged writ, to determine the legality of an order allowing access to his telecommunications data, the court said on Friday. In its decision on Thursday, the […]"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Ανώτατο: Άδεια για Certiorari κατά διατάγματος πρόσβασης σε τηλεπικοινωνιακά δεδομένα – Αμφίβολο αν πρόκειται για «σοβαρό αδίκημα»",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748181/anotato-adia-gia-certiorari-kata-diatagmatos-prosvasis-se-tilepikinoniaka-dedomena-amfivolo-an-prokite-gia-sovaro-adikima/",
+          "pubDate": "Fri, 17 Jul 2026 16:43:53 +0000",
+          "content": "Το Ανώτατο Δικαστήριο έδωσε άδεια σε πρόσωπο που διερευνάται για αδικήματα παράνομης πρόσβασης σε συστήματα πληροφοριών, παράνομης παρεμβολής σε δεδομένα και παράνομης υποκλοπής, να καταχωρίσει αίτηση για έκδοση προνομιακού εντάλματος Certiorari, με στόχο τον έλεγχο της νομιμότητας διατάγματος που επέτρεψε την πρόσβαση σε τηλεπικοινωνιακά του δεδομένα. Η απόφαση εκδόθηκε στις 16 Ιουλίου 2026, με το […]\nΤο άρθρο Ανώτατο: Άδεια για Certiorari κατά διατάγματος πρόσβασης σε τηλεπικοινωνιακά δεδομένα – Αμφίβολο αν πρόκειται για «σοβαρό αδίκημα» εμφανίστηκε πρώτα στο Philenews."
+        }
+      ]
+    },
+    {
+      "headline": "Appeals Court Upholds 16-Year Sentence for Attempted Murder",
+      "summary": "The Court of Appeals dismissed an appeal against a 16-year prison sentence for two counts of attempted murder. The court upheld the initial ruling, affirming that the sentences were not excessively harsh given the gravity of the crimes, which involved shooting and injuring an adult and a six-year-old child.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 2,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 1,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Appeals court upholds attempted murder sentence",
+          "link": "https://cyprus-mail.com/2026/07/17/appeals-court-upholds-attempted-murder-sentence",
+          "pubDate": "Fri, 17 Jul 2026 19:28:01 +0300",
+          "content": "An appeal lodged against a prison sentence imposed for two accounts of attempted murder has been dismissed by the court of appeals, which ratified the 16-year sentences as not being excessive, it was announced on Friday. In its decision issued on July 9, by which it upheld the ruling of the court of first instance, […]"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "«Όχι» από Εφετείο: Στη φυλακή για 16 χρόνια ένοχος για απόπειρα φόνου άντρα και εξάχρονου παιδιού",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748113/ochi-apo-efetio-sti-filaki-gia-16-chronia-enochos-gia-apopira-fonou-antra-ke-exachronou-pediou/",
+          "pubDate": "Fri, 17 Jul 2026 15:58:00 +0000",
+          "content": "Έφεση κατά της ποινής φυλάκισης που επιβλήθηκε σε ένοχο για δύο κατηγορίες απόπειρας φόνου απέρριψε το Εφετείο με απόφασή του ημερομηνίας 9 Ιουλίου, επικυρώνοντας την πρωτόδικη κρίση ότι οι ποινές των 16 ετών δεν είναι έκδηλα υπερβολικές. Το Εφετείο έκρινε ότι το Κακουργιοδικείο ορθά αξιολόγησε τη σοβαρότητα των αδικημάτων, κατά τα οποία τραυματίστηκαν από πυροβολισμούς […]\nΤο άρθρο «Όχι» από Εφετείο: Στη φυλακή για 16 χρόνια ένοχος για απόπειρα φόνου άντρα και εξάχρονου παιδιού εμφανίστηκε πρώτα στο Philenews."
         }
       ]
     },
     {
       "headline": "Marvel Comics to Relocate Publishing Operations to California",
-      "summary": "Marvel Comics is reportedly moving its publishing division from New York City to Burbank, California, ending a nearly 90-year presence in its founding city. Employees were informed of the relocation at a town hall meeting, which will bring the unit closer to other Disney operations.",
+      "summary": "Marvel Comics plans to move its publishing division from New York City to Burbank, California, ending an almost 90-year presence in the city where it was founded. Employees were informed of the relocation, which will consolidate the publishing unit with Marvel's film and television operations in Burbank.",
       "biasDistribution": {
         "Left": 0,
         "Center-Left": 0,
@@ -101,8 +209,8 @@
       ]
     },
     {
-      "headline": "Israeli Airstrikes Kill Palestinians Attending Gaza Funeral",
-      "summary": "An Israeli airstrike in Nuseirat, central Gaza Strip, killed at least eight Palestinians and wounded 20 who were attending a funeral for a victim of an earlier strike. These deaths, along with at least three other Palestinians killed in separate airstrikes, mark a violent day in the region. Gaza health officials reported the casualties.",
+      "headline": "Israeli Airstrikes Kill Palestinians Attending Funeral in Gaza",
+      "summary": "An Israeli airstrike in Nuseirat, central Gaza Strip, killed at least eight Palestinians and wounded 20 who were attending a funeral for a person killed by an earlier Israeli strike. These deaths, along with at least three other Palestinians killed in separate airstrikes, were reported by Gaza health officials.",
       "biasDistribution": {
         "Left": 0,
         "Center-Left": 0,
@@ -128,8 +236,8 @@
       ]
     },
     {
-      "headline": "SpaceX Plans New Starship Launch Attempt After Aborted Ignition",
-      "summary": "SpaceX is aiming for Monday for another attempt to launch its Starship rocket, following a last-second abort during engine ignition on Thursday's flight. This brief setback, despite being a test, reportedly wiped roughly $100 billion from the newly public company’s market value.",
+      "headline": "SpaceX Prepares for New Starship Launch Attempt Next Week After Abort",
+      "summary": "SpaceX is targeting Monday for another attempt to launch its Starship rocket, following a last-second abort during engine ignition on Thursday. This brief setback, however, wiped roughly $100 billion from the newly public company’s market value.",
       "biasDistribution": {
         "Left": 0,
         "Center-Left": 0,
@@ -155,8 +263,224 @@
       ]
     },
     {
-      "headline": "Iran's Revolutionary Guards Fire on Thai-Flagged Vessel in Strait of Hormuz",
-      "summary": "Iran's Tasnim news agency reported that the Revolutionary Guards fired upon a Thai-flagged commercial vessel in the Strait of Hormuz after it allegedly disregarded their orders. The incident occurred as the ship attempted to pass through the strategic waterway, according to a well-informed source cited by Tasnim.",
+      "headline": "Suspect Extradited from Romania in 3kg Cannabis Case",
+      "summary": "A 29-year-old man has been arrested in Cyprus following his extradition from Romania in connection with a 2024 drug case involving more than 3kg of cannabis. Police stated the suspect was wanted over the possession of 3.22kg of cannabis with intent to supply.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Suspect extradited from Romania over 3kg cannabis case",
+          "link": "https://cyprus-mail.com/2026/07/17/suspect-extradited-from-romania-over-3kg-cannabis-case",
+          "pubDate": "Fri, 17 Jul 2026 20:07:52 +0300",
+          "content": "A 29-year-old man has been arrested following his extradition from Romania to Cyprus in connection with a 2024 drug case involving more than 3kg of cannabis, police said on Friday. Police said the suspect was wanted over the possession of 3.22kg of cannabis with intent to supply. He was arrested in Romania under a European […]"
+        }
+      ]
+    },
+    {
+      "headline": "Key Witness in Zavrantonas Retrial Changes Testimony",
+      "summary": "Court proceedings in the 'Zavrantonas' case continued with the cross-examination of key prosecution witness Yiannis 'Maronas' Andreou, who admitted to initially lying to authorities. The defense lawyer for Giorgos 'Zavrantonas' Christodoulou alleged that Andreou had received preferential treatment.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Witness in Zavrantonas retrial repudiates defence in cross examination",
+          "link": "https://cyprus-mail.com/2026/07/17/witness-in-zavrantonas-retrial-repudiates-defence-in-cross-examination",
+          "pubDate": "Fri, 17 Jul 2026 19:50:04 +0300",
+          "content": "Court proceedings in the ‘Zavrantonas’ case continued on Friday with the cross examination of key prosecution witness Yiannis ‘Maronas’ Andreou, who on Thursday had told the court he had initially lied to the authorities. The defence lawyer for Giorgos ‘Zavrantonas’ Christodoulou said in court on Friday that Andreou had been given preferential treatment by the […]"
+        }
+      ]
+    },
+    {
+      "headline": "Polis Chrysochous Urges Public Vigilance Against Wildfires",
+      "summary": "The municipality of Polis Chrysochous has urged residents to take extra care as high temperatures significantly increase the risk of wildfires. Residents are called upon to refrain from activities that may cause fires, such as using spark-producing equipment or burning dry grass, and to report any incidents immediately.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Polis Chrysochous urges public to help prevent fires",
+          "link": "https://cyprus-mail.com/2026/07/17/polis-chrysochous-urges-public-to-help-prevent-fires",
+          "pubDate": "Fri, 17 Jul 2026 19:31:11 +0300",
+          "content": "The municipality of Polis Chrysochous urged residents on Friday to take extra care as high temperatures increase the risk of wildfires. Residents were called on to refrain from activities that may cause fires, such as using spark-producing equipment or burning dry grass and waste. The municipality also advised residents to stay alert and report any […]"
+        }
+      ]
+    },
+    {
+      "headline": "Fire in Kokkinotrimithia Buffer Zone Under Control",
+      "summary": "A fire that erupted near an abandoned shoe factory in the buffer zone of Kokkinotrimithia, Nicosia, on Friday afternoon has been brought under control. Four fire engines, two additional units from volunteer groups Atlas and Support Cy, and a UN tanker were deployed to extinguish the blaze.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Fire in Kokkinotrimithia buffer zone under control",
+          "link": "https://cyprus-mail.com/2026/07/17/fire-in-kokkinotrimithia-buffer-zone-under-control",
+          "pubDate": "Fri, 17 Jul 2026 19:14:17 +0300",
+          "content": "A fire close to an abandoned shoe factory in the buffer zone of Kokkinotrimithia, Nicosia, that started at noon on Friday, has been placed under control. In a post on X, fire brigade spokesman Andreas Kettis said four fire engines, two more from Atlas and Support Cy volunteer groups and a UN tanker had operated […]"
+        }
+      ]
+    },
+    {
+      "headline": "Outdoor Cinema Series Returns to Cyprus Beaches",
+      "summary": "The Petridio Foundation is bringing back its 'Cinema By the Sea' event series, offering four nights of outdoor film screenings in charming Cypriot locations. This popular summer activity allows audiences to enjoy films from around the world under the warm, starry night sky.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Cinema by the sea arrives at Cyprus beaches",
+          "link": "https://cyprus-mail.com/2026/07/17/cinema-by-the-sea-arrives-at-cyprus-beaches",
+          "pubDate": "Fri, 17 Jul 2026 19:14:00 +0300",
+          "content": "Outdoor films, screened under the warm, starry night sky, are a favourite summer activity. This season, there are plenty of opportunities to enjoy films from around the world in some of Cyprus’ most charming locations. The Petridio Foundation brings back its Cinema By the Sea event series for four nights of movie magic with the […]"
+        }
+      ]
+    },
+    {
+      "headline": "President Christodoulides Hints at Developments in Isaac and Solomou Cases",
+      "summary": "President Nikos Christodoulides announced that there have been \"developments\" regarding the cases of Tasos Isaac and Solomos Solomou, who were killed during demonstrations in the Dherynia buffer zone in August 1996. The President reaffirmed the government's commitment to pursuing justice for these historical events.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Christodoulides announces ‘developments’ in Isaac, Solomou case",
+          "link": "https://cyprus-mail.com/2026/07/17/christodoulides-announces-developments-in-isaac-solomou-case",
+          "pubDate": "Fri, 17 Jul 2026 19:11:01 +0300",
+          "content": "President Nikos Christodoulides on Friday said there have been “developments” regarding the case of Tasos Isaac and Solomos Solomou, who were both killed during two separate demonstrations in the buffer zone near Dherynia during August 1996. “I want to say that for us, for our government, what happened in August 1996, the murders which took […]"
+        }
+      ]
+    },
+    {
+      "headline": "Health Minister Calls for Increased Hepatitis Testing and Vaccination",
+      "summary": "Health Minister Neophytos Charalambides has urged for greater public participation in hepatitis testing and vaccination, highlighting that viral hepatitis remains a \"silent epidemic.\" He stressed that the disease often causes serious liver damage before symptoms appear, despite advancements in prevention and treatment.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Minister urges hepatitis testing, vaccination",
+          "link": "https://cyprus-mail.com/2026/07/17/minister-urges-hepatitis-testing-vaccination",
+          "pubDate": "Fri, 17 Jul 2026 18:53:07 +0300",
+          "content": "By Rebekah Gregoriades Viral hepatitis remains a “silent epidemic” despite progress in prevention and treatment, often causing serious liver damage before symptoms appear, Health Minister Neophytos Charalambides said on Friday. Speaking at a press conference organised by the liver patients’ association Promitheas ahead of World Hepatitis Day on July 28, Charalambides stressed the importance of […]"
+        }
+      ]
+    },
+    {
+      "headline": "Multiple Casualties Reported in Ukraine and Russia Attacks",
+      "summary": "At least ten people were killed and around twenty injured in recent attacks across Ukraine and Russia. In Odesa, Ukraine, a Russian missile strike resulted in two deaths and eight injuries, including two children, with residential buildings and civilian infrastructure sustaining damage.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 1,
+        "Turkish": 0,
+        "English": 0
+      },
+      "articles": [
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Πόλεμος στην Ουκρανία: Τουλάχιστον 10 νεκροί και πολλοί τραυματίες εξαιτίας επιθέσεων",
+          "link": "https://www.philenews.com/kosmos/article/1748230/polemos-stin-oukrania-toulachiston-10-nekri-ke-polli-travmaties-exetias-epitheseon/",
+          "pubDate": "Fri, 17 Jul 2026 20:40:05 +0000",
+          "content": "Τουλάχιστον δέκα άνθρωποι σκοτώθηκαν και περίπου είκοσι τραυματίστηκαν σήμερα εξαιτίας επιθέσεων σε περιοχές της Ουκρανίας και της Ρωσίας. Στην Ουκρανία, ρωσικός πύραυλος έπληξε την Οδησσό, προκαλώντας τον θάνατο δύο ανθρώπων και των τραυματισμό άλλων οκτώ, συμπεριλαμβανομένων δύο παιδιών, όπως ανακοίνωσε ο αντιδήμαρχος Ολεξάντρ Φιλάτοφ μέσω Telegram. Ενημέρωσε επίσης πως υπέστησαν ζημιές πολυκατοικίες, οχήματα και πολιτικές υποδομές. Μεταξύ των νεκρών είναι μια μητέρα, η […]\nΤο άρθρο Πόλεμος στην Ουκρανία: Τουλάχιστον 10 νεκροί και πολλοί τραυματίες εξαιτίας επιθέσεων εμφανίστηκε πρώτα στο Philenews."
+        }
+      ]
+    },
+    {
+      "headline": "Iran's Revolutionary Guards Fire on Thai-Flagged Ship in Strait of Hormuz",
+      "summary": "Iran's Revolutionary Guards reportedly fired upon a Thai-flagged commercial vessel in the Strait of Hormuz, according to the Iranian news agency Tasnim. The incident occurred after the ship allegedly attempted to pass through the strategic waterway without complying with the Guards' orders.",
       "biasDistribution": {
         "Left": 0,
         "Center-Left": 0,
@@ -177,13 +501,13 @@
           "title": "Ιράν: Οι Φρουροί της Επανάστασης άνοιξαν πυρ εναντίον πλοίου στα Στενά του Ορμούζ",
           "link": "https://www.philenews.com/kosmos/article/1748223/iran-i-frouri-tis-epanastasis-anixan-pir-enantion-pliou-sta-stena-tou-ormouz/",
           "pubDate": "Fri, 17 Jul 2026 19:54:39 +0000",
-          "content": "Το ιρανικό πρακτορείο ειδήσεων Tasnim μετέδωσε ότι ένα εμπορικό πλοίο με σημαία Ταϊλάνδης δέχθηκε πυρά από τους Φρουρούς της Επανάστασης, όταν επιχείρησε να περάσει σήμερα από τα Στενά του Ορμούζ αγνοώντας τις εντολές τους. Επικαλούμενο καλά πληροφορημένη πηγή, το Tasnim αναφέρει πως το πλοίο «επιχείρησε να διέλθει από τα Στενά του Ορμούζ χωρίς να συμμορφωθεί […]"
+          "content": "Το ιρανικό πρακτορείο ειδήσεων Tasnim μετέδωσε ότι ένα εμπορικό πλοίο με σημαία Ταϊλάνδης δέχθηκε πυρά από τους Φρουρούς της Επανάστασης, όταν επιχείρησε να περάσει σήμερα από τα Στενά του Ορμούζ αγνοώντας τις εντολές τους. Επικαλούμενο καλά πληροφορημένη πηγή, το Tasnim αναφέρει πως το πλοίο «επιχείρησε να διέλθει από τα Στενά του Ορμούζ χωρίς να συμμορφωθεί […]\nΤο άρθρο Ιράν: Οι Φρουροί της Επανάστασης άνοιξαν πυρ εναντίον πλοίου στα Στενά του Ορμούζ εμφανίστηκε πρώτα στο Philenews."
         }
       ]
     },
     {
-      "headline": "Report: Trump Administration Considers Escalation Against Iran, Sends Aircraft to Israel",
-      "summary": "According to Axios, the Washington administration is strengthening its military presence in Israel by sending dozens of additional aerial refueling aircraft. This decision comes as President Donald Trump reportedly considers new operational plans that envision broader military action against Iran.",
+      "headline": "US Considers Escalation Against Iran, Deploys Aircraft to Israel",
+      "summary": "Washington is reportedly enhancing its military presence in Israel by sending dozens of additional aerial refueling aircraft, according to Axios. This deployment coincides with President Donald Trump's consideration of new operational plans that envision broader military action against Iran.",
       "biasDistribution": {
         "Left": 0,
         "Center-Left": 0,
@@ -209,8 +533,8 @@
       ]
     },
     {
-      "headline": "Video Released of Assassination Attempt on Oligarch Vadim Yermolayev in Monaco",
-      "summary": "Ukraine's Prosecutor General Ruslan Kravchenko has released surveillance footage of an assassination attempt on oligarch Vadim Yermolayev and his family in Monaco. The video, recorded by the perpetrators themselves to confirm the execution, was recovered by experts after the suspects tried to destroy it.",
+      "headline": "Video Evidence Released in Attempted Assassination of \"Cypriot\" Oligarch",
+      "summary": "The Ukrainian Prosecutor General's office has released surveillance video, recovered by specialists, showing the attempted assassination of oligarch Vadim Ermolayev and his family in Monaco. The footage, captured by cameras installed by the perpetrators to confirm the attack, was retrieved despite their attempts to destroy it.",
       "biasDistribution": {
         "Left": 0,
         "Center-Left": 0,
@@ -236,8 +560,8 @@
       ]
     },
     {
-      "headline": "Masterplan Initiated for Complete Regeneration of Peyia's Traditional Core",
-      "summary": "The Akamas Municipality has commenced the development of a comprehensive Masterplan aimed at the total regeneration and revitalization of Peyia's traditional core. This ambitious project began with the signing of a contract with an architectural firm to provide all necessary studies and supervision services for its implementation.",
+      "headline": "Akamas Municipality Develops Masterplan for Pegeia Traditional Core Regeneration",
+      "summary": "The Akamas Municipality is actively developing a comprehensive Masterplan for the complete regeneration and revitalization of the traditional core of Pegeia. This initiative, marked by the recent signing of a contract with an architectural firm, aims to include all necessary studies and supervision services for the project's implementation.",
       "biasDistribution": {
         "Left": 0,
         "Center-Left": 0,
@@ -263,13 +587,13 @@
       ]
     },
     {
-      "headline": "Successful Theatrical Performance 'Our Neighbors'' in Drouseia",
-      "summary": "The theatrical performance titled 'Our Neighbors'' (Τα δικά μας του γείτονου μας) was met with great success in Drouseia. The event highlights a successful cultural gathering in the local community.",
+      "headline": "US Delegation Discusses Cyprus's Progress Towards Visa Waiver Program",
+      "summary": "A high-level delegation from the U.S. Department of Homeland Security visited Cyprus to discuss the country's advancement towards inclusion in the Visa Waiver Program. The delegation held meetings with key Cypriot officials, including the Deputy Minister to the President and the Deputy Minister of Migration.",
       "biasDistribution": {
         "Left": 0,
-        "Center-Left": 1,
+        "Center-Left": 0,
         "Center": 0,
-        "Center-Right": 0,
+        "Center-Right": 1,
         "Right": 0
       },
       "communityCoverage": {
@@ -279,24 +603,24 @@
       },
       "articles": [
         {
-          "source": "Politis",
+          "source": "Phileleftheros",
           "community": "Greek",
-          "bias": "Center-Left",
-          "title": "Με μεγάλη επιτυχία η θεατρική παράσταση «Τα δικά μας του γείτονου μας» στη Δρούσεια",
-          "link": "https://www.politis.com.cy/newsroom/1019997/me-meghali-epitikhia-i-theatriki-parastasi-ta-dika-mas-toy-ghitonoy-mas-sti-drouseia",
-          "pubDate": "Fri, 17 Jul 2026 23:29:00 +0300",
-          "content": "null"
+          "bias": "Center-Right",
+          "title": "Πρεσβεία των ΗΠΑ στην Κύπρο: Συζητήθηκε η πρόοδος της Κύπρου για ένταξη στο πρόγραμμα απαλλαγής από Βίζα – Αμερικανοί αξιωματούχοι βρέθηκαν στο νησί",
+          "link": "https://www.philenews.com/politiki/article/1748188/presvia-ton-ipa-stin-kipro-sizitithike-i-proodos-tis-kiprou-gia-entaxi-sto-programma-apallagis-apo-viza-amerikani-axiomatouchi-vrethikan-sto-nisi/",
+          "pubDate": "Fri, 17 Jul 2026 16:58:27 +0000",
+          "content": "Αντιπροσωπεία υψηλού επιπέδου του Υπουργείου Εσωτερικής Ασφάλειας των Ηνωμένων Πολιτειών (DHS), με επικεφαλής τον Υφυπουργό Στρατηγικής, Πολιτικής και Σχεδιασμού Ρομπ Λο, πραγματοποίησε επίσκεψη στην Κυπριακή Δημοκρατία στις 13 και 14 Ιουλίου. Κατά τη διάρκεια της επίσκεψης, η αμερικανική αντιπροσωπεία είχε συναντήσεις με την Υφυπουργό παρά τω Προέδρω Ειρήνη Πική, τον Υφυπουργό Μετανάστευσης Νικόλα Ιωαννίδη και […]\nΤο άρθρο Πρεσβεία των ΗΠΑ στην Κύπρο: Συζητήθηκε η πρόοδος της Κύπρου για ένταξη στο πρόγραμμα απαλλαγής από Βίζα – Αμερικανοί αξιωματούχοι βρέθηκαν στο νησί εμφανίστηκε πρώτα στο Philenews."
         }
       ]
     },
     {
-      "headline": "Agia Marina Celebrations Conclude with Splendor in Agia Marina Chrysochous",
-      "summary": "The celebrations honoring Agia Marina in Agia Marina Chrysochous have concluded with splendor and devotion. The event marked a significant religious and community gathering, reflecting local traditions and reverence.",
+      "headline": "EU Commission Highlights Pending Issues in Cyprus's Rule of Law Report",
+      "summary": "The European Commission's 2026 report on the Rule of Law in Cyprus acknowledges progress but also identifies outstanding issues and omissions, issuing specific recommendations. The Commission urges Cyprus to finalize the reform of its Legal Service, establish an Independent Judiciary Service, and enhance the operational effectiveness of its Independent Anti-Corruption Authority.",
       "biasDistribution": {
         "Left": 0,
-        "Center-Left": 1,
+        "Center-Left": 0,
         "Center": 0,
-        "Center-Right": 0,
+        "Center-Right": 1,
         "Right": 0
       },
       "communityCoverage": {
@@ -306,24 +630,24 @@
       },
       "articles": [
         {
-          "source": "Politis",
+          "source": "Phileleftheros",
           "community": "Greek",
-          "bias": "Center-Left",
-          "title": "Με λαμπρότητα και κατάνυξη ολοκληρώθηκαν οι εορτασμοί της Αγίας Μαρίνας στην Αγία Μαρίνα Χρυσοχούς",
-          "link": "https://www.politis.com.cy/newsroom/1019996/me-lamprotita-kai-kataniksi-oloklirwthikan-oi-eortasmi-tis-aghias-marinas-stin-aghias-marina-xrisokhous",
-          "pubDate": "Fri, 17 Jul 2026 22:52:00 +0300",
-          "content": "null"
+          "bias": "Center-Right",
+          "title": "Έκθεση Ευρωπαϊκής Επιτροπής: Καμπανάκια για εκκρεμότητες και παραλείψεις στο Κράτος Δικαίου στην Κύπρο – Σε ποιες συστάσεις προβαίνει",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748114/ekthesi-evropaikis-epitropis-entopizi-ekkremotites-ke-paralipsis-sto-kratos-dikeou-stin-kipro-se-pies-sistasis-proveni/",
+          "pubDate": "Fri, 17 Jul 2026 16:04:09 +0000",
+          "content": "Πρόοδο αλλά και εκκρεμότητες εντοπίζει η Ευρωπαϊκή Επιτροπή στην έκθεσή της για το Κράτος Δικαίου στην Κύπρο. Η έκθεση του 2026 περιλαμβάνει συγκεκριμένες συστάσεις. Μεταξύ άλλων, η Κομισιόν καλεί την Κύπρο να ολοκληρώσει τη μεταρρύθμισης της Νομικής Υπηρεσίας, να προχωρήσει στη δημιουργία Ανεξάρτητης Υπηρεσίας Δικαστηρίων και  να ενισχύσει την επιχειρησιακή αποτελεσματικότητα της Ανεξάρτητης Αρχής κατά […]\nΤο άρθρο Έκθεση Ευρωπαϊκής Επιτροπής: Καμπανάκια για εκκρεμότητες και παραλείψεις στο Κράτος Δικαίου στην Κύπρο – Σε ποιες συστάσεις προβαίνει εμφανίστηκε πρώτα στο Philenews."
         }
       ]
     },
     {
-      "headline": "Palestinian Ambassador to Cyprus Alleges \"Shock Plan\" for Crocodile Moats Around Israeli Prisons",
-      "summary": "The Palestinian Ambassador to Cyprus made a shocking allegation regarding a \"shock plan\" involving crocodile-filled moats around Israeli prisons. This unusual claim was presented as a significant statement by the Ambassador, drawing attention to conditions related to Israeli detention facilities.",
+      "headline": "T.C. Leader Erhurman Views Guterres' Cyprus Visit as Substantive",
+      "summary": "Turkish Cypriot leader Tufan Erhurman positively assessed the upcoming visit of UN Secretary-General Antonio Guterres to Cyprus. He stated that the meetings in Nicosia are expected to contribute significantly to a better understanding of both sides' positions and help define the future direction of efforts on the Cyprus issue.",
       "biasDistribution": {
         "Left": 0,
-        "Center-Left": 1,
+        "Center-Left": 0,
         "Center": 0,
-        "Center-Right": 0,
+        "Center-Right": 1,
         "Right": 0
       },
       "communityCoverage": {
@@ -333,24 +657,24 @@
       },
       "articles": [
         {
-          "source": "Politis",
+          "source": "Phileleftheros",
           "community": "Greek",
-          "bias": "Center-Left",
-          "title": "Παλαιστίνιος Πρέσβης στην Κύπρο: «Σχέδιο-σοκ για τάφρους με κροκόδειλους γύρω από ισραηλινές φυλακές»",
-          "link": "https://www.politis.com.cy/politis-news/kosmos/1019939/palaistinios-presvis-skhedio-sok-ghia-tafroys-me-krokodeiloys-ghyro-apo-israilines-filakes",
-          "pubDate": "Fri, 17 Jul 2026 21:07:00 +0300",
-          "content": "Κροκόδειλοι ως «φρουροί» φυλακών; Η σοκαριστική καταγγελία του Παλαιστίνιου Πρέσβη"
+          "bias": "Center-Right",
+          "title": "Έρχιουρμαν για την επίσκεψη Γκουτέρες στην Κύπρο: «Οι συζητήσεις θα είναι ουσιαστικές»",
+          "link": "https://www.philenews.com/politiki/article/1748102/erchiourman-gia-tin-episkepsi-gkouteres-stin-kipro-i-sizitisis-tha-ine-ousiastikes/",
+          "pubDate": "Fri, 17 Jul 2026 15:37:43 +0000",
+          "content": "Θετικά αποτιμά ο Τουρκοκύπριος ηγέτης Τουφάν Έρχιουρμαν την επικείμενη επίσκεψη του Γενικού Γραμματέα του ΟΗΕ Αντόνιο Γκουτέρες στην Κύπρο, αναφέροντας ότι οι συναντήσεις στη Λευκωσία θα συμβάλουν στην καλύτερη κατανόηση των θέσεων των δύο πλευρών και στον καθορισμό της κατεύθυνσης των προσπαθειών στο Κυπριακό. Σε ανάρτησή του στα μέσα κοινωνικής δικτύωσης, ο κ. Έρχιουρμαν αναφέρει […]\nΤο άρθρο Έρχιουρμαν για την επίσκεψη Γκουτέρες στην Κύπρο: «Οι συζητήσεις θα είναι ουσιαστικές» εμφανίστηκε πρώτα στο Philenews."
         }
       ]
     },
     {
-      "headline": "Animal Abuse Allegations in Lakatamia Remain Unresolved for Two Years",
-      "summary": "The Ecologists' Movement has raised serious concerns about persistent animal abuse incidents in Lakatamia, specifically referring to cats and dogs being shot on rooftops. They criticize the authorities for two years of uninvestigated complaints and urge immediate action to address these grave allegations.",
+      "headline": "Appeals Court Upholds Four-Year Sentence for Smuggling 19 Migrants",
+      "summary": "The Court of Appeals rejected the Attorney General's appeal, upholding a four-year prison sentence for a 24-year-old convicted of assisting the illegal entry of 19 migrants on an overloaded boat. The court found the sentence appropriate, considering both the gravity of the offenses and the defendant's personal circumstances.",
       "biasDistribution": {
-        "Left": 1,
+        "Left": 0,
         "Center-Left": 0,
         "Center": 0,
-        "Center-Right": 0,
+        "Center-Right": 1,
         "Right": 0
       },
       "communityCoverage": {
@@ -360,24 +684,24 @@
       },
       "articles": [
         {
-          "source": "Haravgi",
+          "source": "Phileleftheros",
           "community": "Greek",
-          "bias": "Left",
-          "title": "Δύο χρόνια καταγγελίες χωρίς αποτέλεσμα – Πυροβολούν γατιά και σκυλιά σε ταράτσα",
-          "link": "https://dialogos.com.cy/dyo-chronia-kataggelies-choris-apotelesma-pyrovoloyn-gatia-kai-skylia-se-taratsa/",
-          "pubDate": "Fri, 17 Jul 2026 19:46:52 +0000",
-          "content": "Σοβαρές καταγγελίες για περιστατικά κακοποίησης ζώων στη Λακατάμια και για καθυστερήσεις στη διερεύνησή τους διατυπώνει το Κίνημα Οικολόγων, καλώντας τις αρμόδιες Αρχές να προχωρήσουν σε άμεσες ενέργειες. Καταγγελίες για πυροβολισμούς γάτων Μιλώντας στην εκπομπή Alpha Ενημέρωση, η εκπρόσωπος Τύπου του Κινήματος Οικολόγων, Έλενα Λυμπουρή, ανέφερε ότι από το 2024 έχουν καταγραφεί τουλάχιστον τρία περιστατικά πυροβολισμού […]\nΔύο χρόνια καταγγελίες χωρίς αποτέλεσμα – Πυροβολούν γατιά και σκυλιά σε ταράτσα"
+          "bias": "Center-Right",
+          "title": "Τετραετής φυλάκιση για μεταφορά 19 μεταναστών με υπερφορτωμένη βάρκα – Γιατί το Εφετείο απέρριψε την έφεση του Γενικού Εισαγγελέα",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748057/tetraetis-filakisi-gia-metafora-19-metanaston-me-iperfortomeni-varka-giati-to-efetio-aperripse-tin-efesi-tou-genikou-isangelea/",
+          "pubDate": "Fri, 17 Jul 2026 15:30:00 +0000",
+          "content": "Το Εφετείο απέρριψε την έφεση του Γενικού Εισαγγελέα κατά της ποινής που επιβλήθηκε σε 24χρονο για υποβοήθηση παράνομης εισόδου μεταναστών στη Δημοκρατία, κρίνοντας ότι η ποινή φυλάκισης τεσσάρων ετών δεν είναι έκδηλα ανεπαρκής και ανταποκρίνεται τόσο στη σοβαρότητα των αδικημάτων όσο και στις προσωπικές περιστάσεις του καταδικασθέντος. Η υπόθεση αφορούσε αλλοδαπό άνδρα, ο οποίος κρίθηκε […]\nΤο άρθρο Τετραετής φυλάκιση για μεταφορά 19 μεταναστών με υπερφορτωμένη βάρκα – Γιατί το Εφετείο απέρριψε την έφεση του Γενικού Εισαγγελέα εμφανίστηκε πρώτα στο Philenews."
         }
       ]
     },
     {
-      "headline": "€3 Fee Fails to Deter Online Orders from Temu and Shein in Cyprus",
-      "summary": "Despite the implementation of a €3 fee per product category, the volume of online orders from popular platforms Temu and Shein by Cypriot consumers remains unaffected. Customs Department data shows that state revenues from these orders exceeded one million euros in the first weeks, indicating continued strong consumer demand.",
+      "headline": "FIFA to Award NBA-Style Rings to World Cup Winners",
+      "summary": "Breaking with tradition, FIFA will award 30 rings to the winners of this year's World Cup, a gesture inspired by NBA championship rings. A total of 2026 rings will be produced, with the remaining pieces made available for public sale.",
       "biasDistribution": {
-        "Left": 1,
+        "Left": 0,
         "Center-Left": 0,
         "Center": 0,
-        "Center-Right": 0,
+        "Center-Right": 1,
         "Right": 0
       },
       "communityCoverage": {
@@ -387,67 +711,13 @@
       },
       "articles": [
         {
-          "source": "Haravgi",
+          "source": "Phileleftheros",
           "community": "Greek",
-          "bias": "Left",
-          "title": "Τα €3 δεν έβαλαν «φρένο» στις παραγγελίες – Τα στοιχεία που προκαλούν εντύπωση – «Βροχή» παραγγελιών από Temu και Shein",
-          "link": "https://dialogos.com.cy/ta-e3-den-evalan-freno-stis-paraggelies-ta-stoicheia-poy-prokaloyn-entyposi-vrochi-paraggelion-apo-temu-kai-shein/",
-          "pubDate": "Fri, 17 Jul 2026 19:44:22 +0000",
-          "content": "Αμετάβλητη παραμένει η δυναμική των αγορών από τις δημοφιλείς πλατφόρμες Temu και Shein, παρά την επιβολή του τέλους των τριών ευρώ ανά κατηγορία προϊόντος. Τα στοιχεία του Τμήματος Τελωνείων δείχνουν ότι οι Κύπριοι καταναλωτές συνέχισαν να πραγματοποιούν μαζικά τις ηλεκτρονικές τους αγορές, με τα κρατικά έσοδα να ξεπερνούν το ένα εκατομμύριο ευρώ μέσα στις πρώτες […]\nΤα €3 δεν έβαλαν «φρένο» στις παραγγελίες – Τα στοιχεία που προκαλούν εντύπωση – «Βροχή» παραγγελιών από Temu και Shein"
-        }
-      ]
-    },
-    {
-      "headline": "Parasite in Taco Bell Lettuce Linked to Intestinal Illness Outbreak in US",
-      "summary": "US health authorities have attributed an ongoing intestinal illness outbreak to a parasite identified in lettuce sold by the fast-food chain Taco Bell. A federal investigation confirmed the contamination, prompting concerns about food safety across the country.",
-      "biasDistribution": {
-        "Left": 1,
-        "Center-Left": 0,
-        "Center": 0,
-        "Center-Right": 0,
-        "Right": 0
-      },
-      "communityCoverage": {
-        "Greek": 1,
-        "Turkish": 0,
-        "English": 0
-      },
-      "articles": [
-        {
-          "source": "Haravgi",
-          "community": "Greek",
-          "bias": "Left",
-          "title": "Παράσιτο που εντοπίστηκε στο μαρούλι πασίγνωστης αλυσίδας fast food υπεύθυνο για εντερική επιδημία",
-          "link": "https://dialogos.com.cy/parasito-poy-entopistike-sto-maroyli-pasignostis-alysidas-fast-foynt-ypeythyno-gia-enteriki-epidimia/",
-          "pubDate": "Fri, 17 Jul 2026 18:46:42 +0000",
-          "content": "Οι αμερικανικές υγειονομικές αρχές απέδωσαν την επιδημία εντερικής λοίμωξης που βρίσκεται σε εξέλιξη αυτήν τη στιγμή στη χώρα σε ένα παράσιτο, το οποίο εντοπίστηκε στο μαρούλι, που πουλούσε η αλυσίδα ταχυφαγείων Taco Bell, ανακοίνωσαν σήμερα τα Κέντρα για τον Έλεγχο και την Πρόληψη των Ασθενειών των ΗΠΑ (CDC). Μια έρευνα που διεξήχθη σε ομοσπονδιακό επίπεδο […]\nΠαράσιτο που εντοπίστηκε στο μαρούλι πασίγνωστης αλυσίδας fast food υπεύθυνο για εντερική επιδημία"
-        }
-      ]
-    },
-    {
-      "headline": "Omonia Nicosia Announces Signing of French Forward Loïs Diony",
-      "summary": "Omonia Nicosia football club has officially announced the signing of 33-year-old French forward Loïs Diony. The player, who had been in Cyprus for medical examinations, was a personal choice of coach Henning Berg, who believes Diony is a perfect fit for the team's playing style.",
-      "biasDistribution": {
-        "Left": 1,
-        "Center-Left": 0,
-        "Center": 0,
-        "Center-Right": 0,
-        "Right": 0
-      },
-      "communityCoverage": {
-        "Greek": 1,
-        "Turkish": 0,
-        "English": 0
-      },
-      "articles": [
-        {
-          "source": "Haravgi",
-          "community": "Greek",
-          "bias": "Left",
-          "title": "Έσκασε ανακοίνωση για Ντιονί / Έφερε αυτόν που ήθελε ο Μπεργκ",
-          "link": "https://dialogos.com.cy/eskase-anakoinosi-gia-ntioni-efere-ayton-poy-ithele-o-mpergk/",
-          "pubDate": "Fri, 17 Jul 2026 18:17:32 +0000",
-          "content": "Ποδοσφαιριστής της Ομόνοιας είναι ο 33χρονος Γάλλος επιθετικός Λοίς Ντιονί. Για το γεγονός ότι βρισκόταν στην Κύπρο από το μεσημέρι και περνούσε από τη διαδικασία των ιατρικών εξετάσεων, σας ενημερώσαμε πρώτοι από την ιστοσελίδα μας, match.cy. Ο ποδοσφαιριστής αποτελούσε προσωπική επιλογή του Χένινγκ Μπεργκ, ο οποίος πιστεύει ότι ο Ντιονί ταιριάζει απόλυτα στο στυλ ποδοσφαίρου […]\nΈσκασε ανακοίνωση για Ντιονί / Έφερε αυτόν που ήθελε ο Μπεργκ"
+          "bias": "Center-Right",
+          "title": "Μουντιάλ: Η FIFA θα δώσει 30 δαχτυλίδια στους νικητές στα πρότυπα του NBA – Υπάρχουν 2026 κομμάτια, τα υπόλοιπα θα πουληθούν",
+          "link": "https://www.philenews.com/athlitika/article/1748092/mountial-i-fifa-tha-dosi-30-dachtilidia-stous-nikites-sta-protipa-tou-nba-iparchoun-2026-kommatia-ta-ipolipa-tha-poulithoun/",
+          "pubDate": "Fri, 17 Jul 2026 15:29:00 +0000",
+          "content": "Η FIFA θα προχωρήσει σε μια κίνηση, που δεν έχει κάνει στο παρελθόν μετά τον τελικό του φετινού Μουντιάλ.  Όποιοι από τους Ισπανούς ή Αργεντινούς κατακτήσουν το Παγκόσμιο Κύπελλο ποδοσφαίρου, θα πάρουν δαχτυλίδια, όπως ακριβώς συμβαίνει και με τους πρωταθλητές στο NBA.  Η FIFA θα βγάλει για αυτόν το λόγο 2026 δαχτυλίδια. Από αυτά τα 30 θα τα πάρουν οι […]\nΤο άρθρο Μουντιάλ: Η FIFA θα δώσει 30 δαχτυλίδια στους νικητές στα πρότυπα του NBA – Υπάρχουν 2026 κομμάτια, τα υπόλοιπα θα πουληθούν εμφανίστηκε πρώτα στο Philenews."
         }
       ]
     }
