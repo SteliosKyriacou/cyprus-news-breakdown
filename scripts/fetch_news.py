@@ -2,7 +2,7 @@ import feedparser
 import json
 import os
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from dotenv import load_dotenv
 from google import genai
@@ -28,6 +28,9 @@ NEWS_SOURCES = [
 def fetch_all_feeds():
     all_articles = []
     
+    # Calculate timestamp for 7 days ago
+    seven_days_ago = datetime.now() - timedelta(days=7)
+    
     for source in NEWS_SOURCES:
         try:
             print(f"Fetching from {source['name']}...")
@@ -38,9 +41,17 @@ def fetch_all_feeds():
                 print(f"Failed to fetch {source['name']}: Status code {feed.status}")
                 continue
 
-            top_items = feed.entries[:5]
-            
-            for item in top_items:
+            # Loop through all entries and filter by the last 7 days
+            valid_items = 0
+            for item in feed.entries:
+                try:
+                    if hasattr(item, 'published_parsed') and item.published_parsed:
+                        pub_date = datetime.fromtimestamp(time.mktime(item.published_parsed))
+                        if pub_date < seven_days_ago:
+                            continue # Skip items older than 7 days
+                except Exception:
+                    pass # If date parsing fails, keep it to be safe
+                
                 content = getattr(item, 'summary', '')
                 if hasattr(item, 'content'):
                     content = item.content[0].value
@@ -54,19 +65,23 @@ def fetch_all_feeds():
                     "pubDate": item.get('published', ''),
                     "content": content
                 })
+                valid_items += 1
+                
+            print(f" -> Found {valid_items} articles from the last 7 days.")
         except Exception as e:
             print(f"Failed to fetch {source['name']}: {str(e)}")
             
     return all_articles
 
 def analyze_with_gemini(articles):
-    # To avoid hitting API free limits, cap the articles sent for analysis to 30.
-    articles_to_analyze = articles[:30]
-
+    # Pass all articles to the model since we are using the enterprise Vertex AI
     prompt = f"""
   You are an expert political analyst in Cyprus. 
-  I will provide you with a list of recent news articles from various Cypriot news sources.
-  Group them into "Stories" (clusters of articles talking about the exact same event or topic).
+  I will provide you with a massive list of news articles published in the last 7 days from various Cypriot news sources across Greek, Turkish, and English communities.
+  Your task is to translate and aggressively correlate these articles, grouping them into "Stories" (clusters of articles talking about the exact same event, topic, or overarching issue).
+  
+  CRITICAL: You are equipped with a Google Search tool. You MUST use it to search for related events in Cyprus this week to fill in gaps. For example, if a Greek article talks about an event, search the web to see how the Turkish or English press covered it this week, and intelligently link them together into the same Story!
+  Pay special attention to linking Turkish, Greek, and English articles together if they discuss the same political event, policy, or regional issue.
   
   For each Story, provide:
   1. A neutral 'headline'
@@ -78,7 +93,7 @@ def analyze_with_gemini(articles):
   Return the output as a clean JSON array of story objects. Do not include markdown formatting like ```json.
   
   Articles:
-  {json.dumps(articles_to_analyze)}
+  {json.dumps(articles)}
   """
 
     attempt = 0
@@ -88,6 +103,10 @@ def analyze_with_gemini(articles):
             response = client.models.generate_content(
                 model='gemini-2.5-flash',
                 contents=prompt,
+                config=types.GenerateContentConfig(
+                    tools=[{"google_search": {}}],
+                    temperature=0.2
+                )
             )
             text = response.text
             
@@ -110,11 +129,11 @@ def analyze_with_gemini(articles):
     return []
 
 def main():
-    print("Fetching news feeds...")
+    print("Fetching news feeds for the past 7 days...")
     articles = fetch_all_feeds()
     print(f"Fetched {len(articles)} total articles.")
 
-    print("Analyzing and clustering stories with Gemini...")
+    print("Analyzing and clustering stories with Gemini (with Google Search Grounding)...")
     analyzed_stories = analyze_with_gemini(articles)
 
     data_dir = Path(__file__).parent.parent / 'public' / 'data'

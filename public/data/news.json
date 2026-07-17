@@ -1,18 +1,238 @@
 {
-  "lastUpdated": "2026-07-17T21:49:44.736516Z",
+  "lastUpdated": "2026-07-17T22:10:09.389040Z",
   "stories": [
     {
-      "headline": "Strong Earthquake off Mexico's Coast Triggers and Lifts Tsunami Alert",
-      "summary": "A powerful 7.3 magnitude earthquake struck off the coast of Chiapas, Mexico, felt across Guatemala and El Salvador. Initial tsunami warnings were issued but later lifted, with no significant damage or casualties reported.",
+      "headline": "President Christodoulides Announces Developments in Isaac and Solomou Murder Cases",
+      "summary": "President Nikos Christodoulides stated that there are ongoing developments regarding the 1996 murders of Tasos Isaac and Solomos Solomou, emphasizing the government's commitment to holding those responsible accountable. He made these remarks during a reception for motorcyclists commemorating the 30th anniversary of the tragic events, noting that families would be informed privately.",
+      "biasDistribution": {
+        "Left": 1,
+        "Center-Left": 0,
+        "Center": 1,
+        "Center-Right": 4,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 4,
+        "Turkish": 1,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Christodoulides announces ‘developments’ in Isaac, Solomou case",
+          "link": "https://cyprus-mail.com/2026/07/17/christodoulides-announces-developments-in-isaac-solomou-case",
+          "pubDate": "Fri, 17 Jul 2026 19:11:01 +0300"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Χριστοδουλίδης: Υπάρχουν εξελίξεις στην υπόθεση δολοφονίας Ισαάκ και Σολωμού",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748069/christodoulidis-iparchoun-exelixis-stin-ipothesi-dolofonias-isaak-ke-solomou/",
+          "pubDate": "Fri, 17 Jul 2026 14:37:16 +0000"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Hristodulidis: İsak ve Solomu dosyasında yeni gelişmeler var",
+          "link": "https://www.yeniduzen.com/hristodulidis-isak-ve-solomu-dosyasinda-yeni-gelismeler-var-197522h.htm",
+          "pubDate": "Fri, 17 Jul 2026 20:29:00 +0300"
+        },
+        {
+          "source": "Super Sport FM",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Πρόεδρος Χριστοδουλίδης: Υπάρχουν εξελίξεις στην υπόθεση δολοφονίας Ισαάκ και Σολωμού – Θα ενημερώσει τις οικογένειες",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw0dHAm_vt6XXp7dHRXMwHQXc1-ymDAYt2xIeqkBjbUh_Y-FueBo1kohV0g7HUZdnsd3cv-VAbQrYXTxv1GWOGKiZwThvYfCXjqWEkJk7lrEwkbfar0t10qq5kXKtHu3LUu0Zodv2Ra2F_QqbaNQpZQM48k7_VsRruvg5GrQoIOayyCH3BJTxx6PMF1ljI22AZeQucFUJjbx3AK87GFBrQuzH7eUkrlYeHeE4EpVoJg5fCsEcBfnHrcOgXck3gx4uCo5Q4g42IBNxzIv7_6xT8fEvYYboV6FjxyvM=",
+          "pubDate": "Fri, 17 Jul 2026 14:37:16 +0000"
+        },
+        {
+          "source": "Knews",
+          "community": "English",
+          "bias": "Center",
+          "title": "Greek village honors Cyprus heroes Isaak and Solomou 30 years later",
+          "link": "https://www.knews.com.cy/en/greek-village-honors-cyprus-heroes-isaak-and-solomou-30-years-later",
+          "pubDate": "Mon, 13 Jul 2026 11:37:00 +0300"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Χριστοδουλίδης: Εξελίξεις για δολοφονία Ισαάκ και Σολωμού",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRlWGx_Xuh2nEby-SWCB5utux5O8spk9ZFSpzEnTYA0L_7_PhPEGjKokxXFF66MXnlhR466wyQXAy0jp8EprJKmohtAQ14h9dxo_0ejuEy5dPVFLnb_NrdcZ80IOisvHe9na12auj4bJKL8fd7iPeF9ZjxmR89I-MdozBTtqPRcPVEP2EBGIrKbwWdnV5Cch0xm2WRfref5FKI4up9c326i6CDieujLgOOEWyamQejIjTK0qB134vsFZuHASdfUpYgjGw=",
+          "pubDate": "Fri, 17 Jul 2026 17:37:00 +0300"
+        },
+        {
+          "source": "OmegaLive",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Πρόεδρος Χριστοδουλίδης: Υπάρχουν εξελίξεις στην υπόθεση δολοφονίας Ισαάκ και Σολωμού...",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAQ6FSrup1hsacjkHw511bVV6qXg0XQqm18dbDJmlaubz2y_WHoAzcLqbIDhadbhLyR9sTX2w7AOR-1xEfdCkbHdy3QRXjlf2OX7_WQws9J3bGSqQ18uM9EqpEsdBhF31DdsQCBX9J-8K4giLNbgDOMc6HBnwBiV2BGOyXDMJNEateyWi8a7ygQMreh95gwlkVRqa2BQlCNgRcQNm5Nn-1BC53WXUmZggcdN7rIsBrlIlhPpynzG-qWqbnryA17wNa",
+          "pubDate": "Fri, 17 Jul 2026 13:18:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "UN Secretary-General Guterres to Visit Cyprus for Peace Talks",
+      "summary": "UN Secretary-General Antonio Guterres is scheduled to visit Cyprus from July 27-29 to meet with Greek Cypriot and Turkish Cypriot leaders, as well as other stakeholders. The visit aims to advance the peace process and support stability on the island, marking Guterres' first official trip to Cyprus as UN chief in 16 years.",
+      "biasDistribution": {
+        "Left": 3,
+        "Center-Left": 2,
+        "Center": 7,
+        "Center-Right": 2,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 6,
+        "Turkish": 4,
+        "English": 5
+      },
+      "articles": [
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Έρχιουρμαν για την επίσκεψη Γκουτέρες στην Κύπρο: «Οι συζητήσεις θα είναι ουσιαστικές»",
+          "link": "https://www.philenews.com/politiki/article/1748102/erchiourman-gia-tin-episkepsi-gkouteres-stin-kipro-i-sizitisis-tha-ine-ousiastikes/",
+          "pubDate": "Fri, 17 Jul 2026 15:37:43 +0000"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "\"Kıbrıs sorununun çözümü  bölgede kalıcı barışın anahtarıdır\"",
+          "link": "https://www.yeniduzen.com/kibris-sorununun-cozumu-bolgede-kalici-barisin-anahtaridir-197517h.htm",
+          "pubDate": "Fri, 17 Jul 2026 17:54:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Guterres'in 'bu kez farklı olmalı' yaklaşımı Lefkoşa’da ele alınacak",
+          "link": "https://www.yeniduzen.com/gorusmelerin-bm-genel-sekreterinin-katilimiyla-lefkosada-planlanmasini-dogru-buluyor-197501h.htm",
+          "pubDate": "Fri, 17 Jul 2026 16:00:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "“Guterres’in ziyareti çözüm süreci açısından önemli bir gelişme”",
+          "link": "https://www.yeniduzen.com/guterresin-ziyareti-cozum-sureci-acisindan-onemli-bir-gelisme-197485h.htm",
+          "pubDate": "Fri, 17 Jul 2026 14:14:00 +0300"
+        },
+        {
+          "source": "in.gr",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Κύπρος: Επίσκεψη του Αντόνιο Γκουτέρες 27 έως 29 Ιουλίου – Στο πλαίσιο της αποστολής Καλών Υπηρεσιών",
+          "link": "https://www.in.gr/2026/07/16/world/kypros-episkepsi-tou-antonio-gkouteres-27-eos-29-iouliou-sto-plaisio-tis-apostolis-kalon-ypiresion/",
+          "pubDate": "Thu, 16 Jul 2026 19:45:00 +0300"
+        },
+        {
+          "source": "Anadolu Ajansı",
+          "community": "Turkish",
+          "bias": "Center-Right",
+          "title": "BM Genel Sekreteri Guterres, 27-29 Temmuz'da Kıbrıs'ı ziyaret edecek ve liderlerle görüşecek",
+          "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreteri-guterres-27-29-temmuzda-kibrisi-ziyaret-edecek-ve-liderlerle-goruscek/3279183",
+          "pubDate": "Thu, 16 Jul 2026 19:45:00 +0300"
+        },
+        {
+          "source": "Knews",
+          "community": "English",
+          "bias": "Center",
+          "title": "UN chief heads to Cyprus in fresh push to revive reunification talks",
+          "link": "https://www.knews.com.cy/en/un-chief-heads-to-cyprus-in-fresh-push-to-revive-reunification-talks",
+          "pubDate": "Fri, 17 Jul 2026 10:57:00 +0300"
+        },
+        {
+          "source": "StockWatch",
+          "community": "English",
+          "bias": "Center",
+          "title": "Guterres to visit Cyprus from July 27 to 29 for talks",
+          "link": "https://www.stockwatch.com.cy/en/article/kypriako/guterres-visit-cyprus-july-27-29-talks",
+          "pubDate": "Fri, 17 Jul 2026 13:14:00 +0300"
+        },
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Guterres Cyprus visit 'very significant'",
+          "link": "https://cyprus-mail.com/2026/07/17/guterres-cyprus-visit-very-significant/",
+          "pubDate": "Fri, 17 Jul 2026 13:14:00 +0300"
+        },
+        {
+          "source": "RIK News",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Στην Κύπρο ο Γκουτέρες από τις 27 έως τις 29 Ιουλίου",
+          "link": "https://news.rik.cy/article/2026/7/17/sten-kupro-o-gkouteres-apo-tis-27-eos-tis-29-iouliou/",
+          "pubDate": "Fri, 17 Jul 2026 05:52:00 +0300"
+        },
+        {
+          "source": "Capital",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Επίσκεψη Γκουτέρες στην Κύπρο από τις 27 έως τις 29 Ιουλίου με επίκεντρο την προώθηση της ειρηνευτικής διαδικασίας",
+          "link": "https://www.capital.gr/politiki/3815049/episkepsi-gkouteres-stin-kupro-apo-tis-27-eos-tis-29-iouliou-me-epikentro-tin-proothisi-tis-eirineutikis-diadikasia",
+          "pubDate": "Thu, 16 Jul 2026 20:45:00 +0300"
+        },
+        {
+          "source": "ERTNews",
+          "community": "Greek",
+          "bias": "Center-Left",
+          "title": "Στην Κύπρο στα τέλη Ιουλίου ο Αντόνιο Γκουτέρες – Πρώτη επίσκεψη ΓΓ του ΟΗΕ έπειτα από 16 χρόνια",
+          "link": "https://www.ertnews.gr/eidiseis/diethni/stin-kypro-sta-teli-iouliou-o-antonio-gkouteres-proti-episkepsi-gg-tou-ohe-epeita-apo-16-xronia/",
+          "pubDate": "Thu, 16 Jul 2026 19:45:00 +0300"
+        },
+        {
+          "source": "Topuz Gazetesi",
+          "community": "Turkish",
+          "bias": "Center",
+          "title": "Guterres, Kıbrıs Temasları İçin Adaya Geliyor",
+          "link": "https://www.topuzgazetesi.com/guterres-kibris-temaslari-icin-adaya-geliyor/",
+          "pubDate": "Thu, 16 Jul 2026 19:45:00 +0300"
+        },
+        {
+          "source": "Haberler",
+          "community": "Turkish",
+          "bias": "Center",
+          "title": "BM Genel Sekreteri Guterres Ay Sonunda Kıbrıs'ta Temaslarda Bulunacak",
+          "link": "https://www.haberler.com/bm-genel-sekreteri-guterres-ay-sonunda-kibris-ta-temaslarda-bulunacak-19277054-haberi/",
+          "pubDate": "Thu, 16 Jul 2026 19:45:00 +0300"
+        },
+        {
+          "source": "Politis",
+          "community": "Greek",
+          "bias": "Center-Left",
+          "title": "UN Confirms Guterres Visit to Cyprus",
+          "link": "https://www.politis.com.cy/politis-news/cyprus/1019939/un-confirms-guterres-visit-to-cyprus",
+          "pubDate": "Thu, 16 Jul 2026 19:45:00 +0300"
+        },
+        {
+          "source": "RIK News",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Στην Κύπρο ο Γκουτέρες στις 27 έως 29 Ιουλίου",
+          "link": "https://news.rik.cy/article/2026/7/16/sten-kupro-o-gkouteres-stis-27-eos-29-iouliou/",
+          "pubDate": "Thu, 16 Jul 2026 19:45:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Strong Earthquake Strikes Off Mexico, Triggers Tsunami Warning",
+      "summary": "A powerful magnitude 7.3 earthquake struck off the coast of Mexico's Chiapas state, shaking buildings across Guatemala and El Salvador. While no major damage or casualties were immediately reported, a tsunami warning was issued for coastal areas within 300 km of the epicenter, though it was later lifted.",
       "biasDistribution": {
         "Left": 1,
         "Center-Left": 0,
         "Center": 0,
-        "Center-Right": 1,
+        "Center-Right": 3,
         "Right": 0
       },
       "communityCoverage": {
-        "Greek": 1,
+        "Greek": 3,
         "Turkish": 0,
         "English": 1
       },
@@ -22,20 +242,38 @@
           "community": "English",
           "bias": "Center-Right",
           "title": "Strong quake off Mexican coast rattles Guatemala and El Salvador, but leaves no damage",
-          "link": "https://cyprus-mail.com/2026/07/17/strong-quake-off-mexican-coast-rattles-guatemala-and-el-salvador-but-leaves-no-damage"
+          "link": "https://cyprus-mail.com/2026/07/17/strong-quake-off-mexican-coast-rattles-guatemala-and-el-salvador-but-leaves-no-damage",
+          "pubDate": "Fri, 17 Jul 2026 21:49:00 +0300"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Σεισμός στο Μεξικό: Τα κτίρια χορεύουν από τα 7,4 Ρίχτερ και προκαλούν τρόμο – Προειδοποίηση για τσουνάμι – Δείτε βίντεο",
+          "link": "https://www.philenews.com/kosmos/article/1748162/sismos-sto-mexiko-ta-ktiria-chorevoun-apo-ta-74-richter-proidopiisi-gia-tsounami-dite-vinteo/",
+          "pubDate": "Fri, 17 Jul 2026 16:29:03 +0000"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Μεξικό: Σεισμός 7,4 βαθμών και προειδοποίηση για τσουνάμι (βίντεο)",
+          "link": "https://www.philenews.com/kosmos/article/1748086/mexiko-sismos-74-vathmon-ke-proidopiisi-gia-tsounami/",
+          "pubDate": "Fri, 17 Jul 2026 15:22:36 +0000"
         },
         {
           "source": "Haravgi",
           "community": "Greek",
           "bias": "Left",
           "title": "Μεξικό: Άρση συναγερμού για τσουνάμι μετά τον σεισμό 7,4 βαθμών",
-          "link": "https://dialogos.com.cy/mexiko-arsi-synagermoy-gia-tsoynami-meta-ton-seismo-74-vathmon/"
+          "link": "https://dialogos.com.cy/mexiko-arsi-synagermoy-gia-tsoynami-meta-ton-seismo-74-vathmon/",
+          "pubDate": "Fri, 17 Jul 2026 19:07:45 +0000"
         }
       ]
     },
     {
-      "headline": "US Considers Escalation Against Iran, Boosts Military Presence in Israel Amid Regional Tensions",
-      "summary": "The US is reportedly considering expanded military action against Iran, including potential strikes on critical infrastructure, as dozens of American refueling aircraft are being sent to Israel. This comes as Iranian Revolutionary Guards fired upon a commercial vessel in the Strait of Hormuz, further escalating regional tensions.",
+      "headline": "Over 100 Homes Destroyed in Norway Wildfire",
+      "summary": "A large fire near Drammen, Norway, destroyed more than 100 homes as firefighters battled strong winds. Authorities evacuated hundreds of people, and while thick black smoke covered the area, no casualties were reported.",
       "biasDistribution": {
         "Left": 0,
         "Center-Left": 0,
@@ -44,214 +282,7 @@
         "Right": 0
       },
       "communityCoverage": {
-        "Greek": 2,
-        "Turkish": 0,
-        "English": 0
-      },
-      "articles": [
-        {
-          "source": "Phileleftheros",
-          "community": "Greek",
-          "bias": "Center-Right",
-          "title": "Ιράν: Οι Φρουροί της Επανάστασης άνοιξαν πυρ εναντίον πλοίου στα Στενά του Ορμούζ",
-          "link": "https://www.philenews.com/kosmos/article/1748223/iran-i-frouri-tis-epanastasis-anixan-pir-enantion-pliou-sta-stena-tou-ormouz/"
-        },
-        {
-          "source": "Phileleftheros",
-          "community": "Greek",
-          "bias": "Center-Right",
-          "title": "Axios: Ο Τραμπ εξετάζει κλιμάκωση κατά του Ιράν – Δεκάδες αμερικανικά αεροσκάφη στέλνονται στο Ισραήλ",
-          "link": "https://www.philenews.com/kosmos/article/1748215/axios-o-trab-exetazi-klimakosi-kata-tou-iran-dekades-amerikanika-aeroskafi-stelnonte-sto-israil/"
-        }
-      ]
-    },
-    {
-      "headline": "Video Evidence Released in Assassination Attempt on Cypriot Oligarch Vadim Yermolayev",
-      "summary": "Ukrainian authorities released surveillance footage showing the assassination attempt on Cypriot oligarch Vadim Yermolayev and his family in Monaco. The video, originally recorded by the perpetrators, was recovered by Ukrainian security services and is being used in the ongoing investigation.",
-      "biasDistribution": {
-        "Left": 0,
-        "Center-Left": 0,
-        "Center": 0,
-        "Center-Right": 1,
-        "Right": 0
-      },
-      "communityCoverage": {
         "Greek": 1,
-        "Turkish": 0,
-        "English": 0
-      },
-      "articles": [
-        {
-          "source": "Phileleftheros",
-          "community": "Greek",
-          "bias": "Center-Right",
-          "title": "Βίντεο-ντοκουμέντο από την απόπειρα δολοφονίας του «Κύπριου» ολιγάρχη Γερμολάγιεφ – Οι δράστες κατέγραψαν την επίθεση για να επιβεβαιώσουν την εκτέλεση",
-          "link": "https://www.philenews.com/kosmos/article/1748211/vinteo-ntokoumento-apo-tin-apopira-dolofonias-tou-kipriou-oligarchi-germolagief-i-drastes-kategrafan-tin-epithesi-me-diki-tous-kamera-ke-epichirisan-na-katastrepsoun-to-vinteo/"
-        }
-      ]
-    },
-    {
-      "headline": "TRNC Council of Ministers Approves Citizenship for 131 Individuals",
-      "summary": "The Council of Ministers in the Turkish Republic of Northern Cyprus has granted citizenship to 131 individuals who met the criteria under the Citizenship Law. This decision was announced following a cabinet meeting.",
-      "biasDistribution": {
-        "Left": 1,
-        "Center-Left": 0,
-        "Center": 0,
-        "Center-Right": 0,
-        "Right": 0
-      },
-      "communityCoverage": {
-        "Greek": 0,
-        "Turkish": 1,
-        "English": 0
-      },
-      "articles": [
-        {
-          "source": "Yeni Duzen",
-          "community": "Turkish",
-          "bias": "Left",
-          "title": "Bakanlar Kurulu'ndan 131 kişiye vatandaşlık",
-          "link": "https://www.yeniduzen.com/bakanlar-kurulundan-131-kisiye-vatandaslik-197523h.htm"
-        }
-      ]
-    },
-    {
-      "headline": "President Christodoulides Announces New Developments in the Isaac and Solomou Cases",
-      "summary": "Republic of Cyprus President Nikos Christodoulides stated that there are new developments regarding the cases of Tasos Isaac and Solomos Solomou, who were killed in the UN buffer zone near Deryneia in 1996. The details of these developments were not immediately disclosed.",
-      "biasDistribution": {
-        "Left": 1,
-        "Center-Left": 0,
-        "Center": 0,
-        "Center-Right": 0,
-        "Right": 0
-      },
-      "communityCoverage": {
-        "Greek": 0,
-        "Turkish": 1,
-        "English": 0
-      },
-      "articles": [
-        {
-          "source": "Yeni Duzen",
-          "community": "Turkish",
-          "bias": "Left",
-          "title": "Hristodulidis: İsak ve Solomu dosyasında yeni gelişmeler var",
-          "link": "https://www.yeniduzen.com/hristodulidis-isak-ve-solomu-dosyasinda-yeni-gelismeler-var-197522h.htm"
-        }
-      ]
-    },
-    {
-      "headline": "Esen Beyköylü Elected New Mayor of Yeniboğaziçi After Predecessor's Arrest",
-      "summary": "Following the arrest and imprisonment of Yeniboğaziçi Mayor Katip Demir, the Municipal Council elected Esen Beyköylü as the new mayor. The election took place after the unexpected vacancy in the mayoral office.",
-      "biasDistribution": {
-        "Left": 1,
-        "Center-Left": 0,
-        "Center": 0,
-        "Center-Right": 0,
-        "Right": 0
-      },
-      "communityCoverage": {
-        "Greek": 0,
-        "Turkish": 1,
-        "English": 0
-      },
-      "articles": [
-        {
-          "source": "Yeni Duzen",
-          "community": "Turkish",
-          "bias": "Left",
-          "title": "Yeniboğaziçi Belediyesi'nde yeni başkan Esen Beyköylü oldu",
-          "link": "https://www.yeniduzen.com/yenibogazici-belediyesinde-yeni-baskan-esen-beykoylu-oldu-197521h.htm"
-        }
-      ]
-    },
-    {
-      "headline": "UBP Proposes Holding Local and Early General Elections Concurrently, Causing Coalition Strain",
-      "summary": "The Central Executive Board of the National Unity Party (UBP) has put forth a proposal to hold both local and early general elections simultaneously. This suggestion has reportedly led to significant rifts within the ruling coalition.",
-      "biasDistribution": {
-        "Left": 1,
-        "Center-Left": 0,
-        "Center": 0,
-        "Center-Right": 0,
-        "Right": 0
-      },
-      "communityCoverage": {
-        "Greek": 0,
-        "Turkish": 1,
-        "English": 0
-      },
-      "articles": [
-        {
-          "source": "Yeni Duzen",
-          "community": "Turkish",
-          "bias": "Left",
-          "title": "UBP MYK'dan \"iki seçim birlikte\" önerisi",
-          "link": "https://www.yeniduzen.com/ubp-mykdan-iki-secim-birlikte-onerisi-197519h.htm"
-        }
-      ]
-    },
-    {
-      "headline": "Israeli Airstrikes Kill Palestinians Attending Funeral in Gaza, drawing Hamas Condemnation",
-      "summary": "An Israeli airstrike killed at least eight Palestinians and wounded 20 at a funeral in Nuseirat, Gaza, for a victim of an earlier strike. Hamas condemned the attack as a \"brutal massacre,\" while the Israeli military claimed it targeted Islamic Jihad militants and was \"aware of claims that several uninvolved individuals were harmed.\"",
-      "biasDistribution": {
-        "Left": 0,
-        "Center-Left": 0,
-        "Center": 0,
-        "Center-Right": 1,
-        "Right": 0
-      },
-      "communityCoverage": {
-        "Greek": 0,
-        "Turkish": 0,
-        "English": 1
-      },
-      "articles": [
-        {
-          "source": "Cyprus Mail",
-          "community": "English",
-          "bias": "Center-Right",
-          "title": "Israeli strikes kill Palestinians attending Gaza funeral for earlier strike victim",
-          "link": "https://cyprus-mail.com/2026/07/17/israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-strike-victim"
-        }
-      ]
-    },
-    {
-      "headline": "Marvel Comics Relocates Publishing Operations to California, Names New Editor-in-Chief",
-      "summary": "Marvel Comics is moving its publishing division from New York City to Burbank, California, ending a nearly 90-year presence in New York. The move aligns the comics division more closely with Marvel Studios and parent company Disney's entertainment operations and includes a leadership change with Stephen Wacker named editor-in-chief.",
-      "biasDistribution": {
-        "Left": 0,
-        "Center-Left": 0,
-        "Center": 0,
-        "Center-Right": 1,
-        "Right": 0
-      },
-      "communityCoverage": {
-        "Greek": 0,
-        "Turkish": 0,
-        "English": 1
-      },
-      "articles": [
-        {
-          "source": "Cyprus Mail",
-          "community": "English",
-          "bias": "Center-Right",
-          "title": "Marvel Comics to move publishing operations to California, report says",
-          "link": "https://cyprus-mail.com/2026/07/17/marvel-comics-to-move-publishing-operations-to-california-report-says"
-        }
-      ]
-    },
-    {
-      "headline": "Over 100 Homes Destroyed by Fire in Southern Norway Amid Strong Winds",
-      "summary": "A large fire near Drammen, southern Norway, destroyed more than 100 homes as firefighters struggled against strong winds. Hundreds were evacuated, but no casualties or missing persons were reported from the blaze.",
-      "biasDistribution": {
-        "Left": 0,
-        "Center-Left": 0,
-        "Center": 0,
-        "Center-Right": 1,
-        "Right": 0
-      },
-      "communityCoverage": {
-        "Greek": 0,
         "Turkish": 0,
         "English": 1
       },
@@ -261,13 +292,1212 @@
           "community": "English",
           "bias": "Center-Right",
           "title": "More than 100 homes destroyed in Norway fire",
-          "link": "https://cyprus-mail.com/2026/07/17/more-than-100-homes-destroyed-in-norway-fire"
+          "link": "https://cyprus-mail.com/2026/07/17/more-than-100-homes-destroyed-in-norway-fire",
+          "pubDate": "Fri, 17 Jul 2026 22:44:00 +0300"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Φωτιά σαρώνει οικισμός στη Νορβηγία: Τουλάχιστον 50 σπίτια στις φλόγες – Ακούστηκαν εκρήξεις, εκκενώνεται η περιοχή",
+          "link": "https://www.philenews.com/kosmos/article/1748190/fotia-saroni-ikismo-sti-norvigia-toulachiston-50-spitia-stis-floges-akoustikan-ekrixis-ekkenonete-i-periochi/",
+          "pubDate": "Fri, 17 Jul 2026 17:02:16 +0000"
         }
       ]
     },
     {
-      "headline": "SpaceX Targets New Starship Launch Date After Aborted Attempt, Shares Decline",
-      "summary": "SpaceX is planning another Starship launch attempt for next week after a last-second abort during engine ignition, which led to a significant drop in the company's market value. Engineers are replacing two engines to ensure a successful flight for the 13th test.",
+      "headline": "Cyprus Awarded 46 Blue Flags for Beaches and Marinas",
+      "summary": "Cyprus has been awarded 46 Blue Flags for its beaches and two marinas in 2026, recognizing their high environmental quality and sustainable management. Of these, 25 beaches offer facilities for people with disabilities, including eight equipped with the Seatrac system for autonomous sea access.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 2,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 1,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "46 beaches, two marinas currently flying Blue Flag",
+          "link": "https://cyprus-mail.com/2026/07/17/46-beaches-two-marinas-currently-flying-blue-flag",
+          "pubDate": "Fri, 17 Jul 2026 19:46:57 +0300"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Γαλάζια Σημαία 2026: 46 κυπριακές παραλίες στη λίστα – Η περιοχή που κυριάρχησε",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748184/galazia-simea-2026-46-kipriakes-paralies-sti-lista-i-periochi-pou-kiriarchise/",
+          "pubDate": "Fri, 17 Jul 2026 16:45:26 +0000"
+        }
+      ]
+    },
+    {
+      "headline": "Supreme Court Allows Challenge to Telecommunications Data Access Order",
+      "summary": "The Supreme Court has granted permission for an application to challenge the legality of an order allowing access to a suspect's telecommunications data. The court noted a prima facie issue regarding whether the investigated offenses qualify as \"serious offenses,\" a prerequisite for such data access.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 2,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 1,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Supreme Court allows certiorari in illegal data case",
+          "link": "https://cyprus-mail.com/2026/07/17/supreme-court-allows-certiorari-in-illegal-data-case",
+          "pubDate": "Fri, 17 Jul 2026 20:02:23 +0300"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Ανώτατο: Άδεια για Certiorari κατά διατάγματος πρόσβασης σε τηλεπικοινωνιακά δεδομένα – Αμφίβολο αν πρόκειται για «σοβαρό αδίκημα»",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748181/anotato-adia-gia-certiorari-kata-diatagmatos-prosvasis-se-tilepikinoniaka-dedomena-amfivolo-an-prokite-gia-sovaro-adikima/",
+          "pubDate": "Fri, 17 Jul 2026 16:43:53 +0000"
+        }
+      ]
+    },
+    {
+      "headline": "Appeals Court Upholds 16-Year Sentence for Attempted Murder",
+      "summary": "The Appeals Court dismissed an appeal against a 16-year prison sentence for a man convicted of two counts of attempted murder in Larnaca. The court affirmed that the initial ruling correctly assessed the seriousness of the offenses, which injured a man and a six-year-old boy, and that the sentences were not excessive.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 1,
+        "Center-Right": 2,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 1,
+        "Turkish": 0,
+        "English": 2
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Appeals court upholds attempted murder sentence",
+          "link": "https://cyprus-mail.com/2026/07/17/appeals-court-upholds-attempted-murder-sentence",
+          "pubDate": "Fri, 17 Jul 2026 19:28:01 +0300"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "«Όχι» από Εφετείο: Στη φυλακή για 16 χρόνια ένοχος για απόπειρα φόνου άντρα και εξάχρονου παιδιού",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748113/ochi-apo-efetio-sti-filaki-gia-16-chronia-enochos-gia-apopira-fonou-antra-ke-exachronou-pediou/",
+          "pubDate": "Fri, 17 Jul 2026 15:58:00 +0000"
+        },
+        {
+          "source": "Cyprus Inform",
+          "community": "English",
+          "bias": "Center",
+          "title": "Court of Appeals upholds 16-year sentences for attempted murder in Larnaca",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuHZdqybukZoEiVh3drrAkHerGQPzcI7ZFWLSUjxITaqCfdRbzQuzfkskf3p1Wgob95w8SQU0__brLrP48GghHfw8PXtJf3y7PdxyPqRfhXHeCH4n8_UwNkdOVJ8-tHqyyAh6Vs2z_Mb2Ej__kqiElUh0S0S1TkXiJFdesf2XwyISaVAXDcVF8SR9l4zGqzJBJKrFroDOUFN5BkhvUS5KaHztDj6M2EnzNO4CoOzB1kQ==",
+          "pubDate": "Fri, 17 Jul 2026 13:14:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Police Seize Large Quantities of Cannabis in Cyprus",
+      "summary": "Cypriot police conducted two separate operations resulting in the seizure of a total of 10.22 kg of cannabis. One operation involved the extradition of a 29-year-old man from Romania in connection with a 2024 case, while the other led to the arrest of a 30-year-old man after 7kg of cannabis arrived by post from abroad.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 2,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 0,
+        "English": 2
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Suspect extradited from Romania over 3kg cannabis case",
+          "link": "https://cyprus-mail.com/2026/07/17/suspect-extradited-from-romania-over-3kg-cannabis-case",
+          "pubDate": "Fri, 17 Jul 2026 20:07:52 +0300"
+        },
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Police seize 7kg cannabis posted to Cyprus, suspect arrested",
+          "link": "https://cyprus-mail.com/2026/07/17/police-seize-7kg-cannabis-posted-to-cyprus-suspect-arrested",
+          "pubDate": "Fri, 17 Jul 2026 18:21:40 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "EU Commission Highlights Progress and Challenges in Cyprus's Rule of Law",
+      "summary": "The European Commission's 2026 Rule of Law Report acknowledges Cyprus's progress in judicial and anti-corruption reforms but also points out outstanding issues. Recommendations include completing Legal Service reforms, establishing an Independent Courts Service, and enhancing the operational effectiveness of the Independent Authority against Corruption.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 1,
+        "Center": 5,
+        "Center-Right": 3,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 3,
+        "Turkish": 2,
+        "English": 3
+      },
+      "articles": [
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Έκθεση Ευρωπαϊκής Επιτροπής: Καμπανάκια για εκκρεμότητες και παραλείψεις στο Κράτος Δικαίου στην Κύπρο – Σε ποιες συστάσεις προβαίνει",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748114/ekthesi-evropaikis-epitropis-entopizi-ekkremotites-ke-paralipsis-sto-kratos-dikeou-stin-kipro-se-pies-sistasis-proveni/",
+          "pubDate": "Fri, 17 Jul 2026 16:04:09 +0000"
+        },
+        {
+          "source": "Gov.cy",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Έκθεση της Ευρωπαϊκής Επιτροπήςτου 2025 για το Κράτος Δικαίου στην Κύπρο - Υπουργείο Δικαιοσύνης και Δημοσίας Τάξεως",
+          "link": "https://www.gov.cy/gr/news/press-releases/10-07-2025-ekthesi-tis-eyropaikis-epitropis-tou-2025-gia-to-kratos-dikaiou-stin-kypro",
+          "pubDate": "Thu, 10 Jul 2025 00:00:00 +0300"
+        },
+        {
+          "source": "TAK",
+          "community": "Turkish",
+          "bias": "Center",
+          "title": "Avrupa Komisyonu'nun Güney Kıbrıs'la ilgili 2025 yılı hukukun üstünlüğü raporu",
+          "link": "https://www.tak.com.tr/tr/haberler/avrupa-komisyonunun-guney-kibrisla-ilgili-2025-yili-hukukun-ustunlugu-raporu/",
+          "pubDate": "Wed, 09 Jul 2025 00:00:00 +0300"
+        },
+        {
+          "source": "Kıbrıs Haber Ajansı",
+          "community": "Turkish",
+          "bias": "Center",
+          "title": "Vatandaş Komiserliği Ofisi: \"Hukukun üstünlüğü raporunda Kıbrıs Cumhuriyeti için olumlu bulgular var\"",
+          "link": "https://www.kha.com.cy/tr/haberler/vatandas-komiserligi-ofisi-hukukun-ustunlugu-raporunda-kibris-cumhuriyeti-icin-olumlu-bulgular-var",
+          "pubDate": "Thu, 10 Jul 2025 12:46:00 +0300"
+        },
+        {
+          "source": "Haber Kıbrıs",
+          "community": "Turkish",
+          "bias": "Center",
+          "title": "AB raporu: \"Hukukun üstünlüğünde ilerleme var ancak bazı ülkelerde yapısal sorunlar sürüyor\"",
+          "link": "https://www.haberkibris.com/ab-raporu-hukukun-ustunlugunde-ilerleme-var-ancak-bazi-ulkelerde-yapisa-17072026.html",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "University of Nicosia",
+          "community": "English",
+          "bias": "Center",
+          "title": "Annual Rule of Law Report by the European Commission – Cyprus 2025: Navigating Judicial Reform",
+          "link": "https://www.unic.ac.cy/annual-rule-of-law-report-by-the-european-commission-cyprus-2025-navigating-judicial-reform/",
+          "pubDate": "Tue, 07 Oct 2025 00:00:00 +0300"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Ευρωπαϊκή Επιτροπή: Συστάσεις προς Κύπρο για Κράτος Δικαίου",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG73JG6jPZgbwpsto79lioXm6hjbFDDJC6et4vz3ZLTQPQKst2ixRsjyAYNPs99cSnhy9-teeXvffZ9haTjqmEjsoEDGnocxXyyaljkxXHL9tNsnehczRYqI_CfP7Y5ywxq8jGJr105ZEH-Q-NR7Szv9Moocwxvo4KR85QQwdzcWG01lUhJsjWDbXfuWiJvIkFrdF-mZS5Y5vtdz0jvrbnNt2kjgsOvn59E9TveQdEYmTtseF5Knn8OM6FojehKLREsjfjEmcnv00Wk4cij7FCHDdIBJB524KCbFDYySCKuuU4-b4tUKHJ7BWutJLs=",
+          "pubDate": "Fri, 17 Jul 2026 19:04:00 +0300"
+        },
+        {
+          "source": "The TOC",
+          "community": "Greek",
+          "bias": "Center-Left",
+          "title": "Έκθεση Κομισιόν για Κράτος Δικαίου: Πρόοδος της Ελλάδας - Θετικά βήματα σε...",
+          "link": "https://www.thetoc.gr/diethni/article/ekthesi-komision-gia-kratos-dikaiou-proodos-tis-elladas-thetika-bimata-se-dikaiosuni-mme-kai-koinonia-ton-politon/",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "European Commission",
+          "community": "English",
+          "bias": "Center",
+          "title": "2026 Rule of law report - Communication and country chapters",
+          "link": "https://commission.europa.eu/publications/2026-rule-law-report-communication-and-country-chapters_en",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "European Commission",
+          "community": "English",
+          "bias": "Center",
+          "title": "2026 Rule of Law Report strengthens Europe's prosperity, security and democratic resilience",
+          "link": "https://commission.europa.eu/news/2026-rule-law-report-strengthens-europes-prosperity-security-and-democratic-resilience-2026-07-17_en",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "KARAR",
+          "community": "Turkish",
+          "bias": "Center-Right",
+          "title": "AB'nin 2026 Hukukun Üstünlüğü Raporu yayımlandı: İlerleme kaydedildi, bazı ülkelerde yapısal sorunlar sürüyor",
+          "link": "https://www.karar.com/dunya-haberleri/abnin-2026-hukukun-ustunlugu-raporu-yayimlandi-ilerleme-kaydedildi-bazi-ulkelerde-yapisa-1869875",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "European Commission",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Έκθεση του 2024 για το κράτος δικαίου — Ανακοίνωση και κεφάλαια ανά χώρα",
+          "link": "https://commission.europa.eu/publications/2024-rule-law-report-communication-and-country-chapters_el",
+          "pubDate": "Wed, 24 Jul 2024 00:00:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Nicosia Municipality Launches Architectural Competition for Historic Garden Restoration",
+      "summary": "Nicosia Municipality has initiated an architectural competition for the €4.1 million redevelopment of its historic municipal garden. The project aims to restore and modernize the century-old public space, preserving its architectural identity while enhancing its functionality, accessibility, and environmental friendliness for future generations.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 2,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 2,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Nicosia launches competition to restore historic municipal garden",
+          "link": "https://cyprus-mail.com/2026/07/17/nicosia-launches-competition-to-restore-historic-municipal-garden",
+          "pubDate": "Fri, 17 Jul 2026 18:17:57 +0300"
+        },
+        {
+          "source": "Ant1 Live",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "«Ανάπλαση του Δημοτικού Κήπου Λευκωσίας» - Η Λευκωσία δεν κληρονομεί απλώς την ιστορία της",
+          "link": "https://www.ant1live.com/news/cyprus/article/577093/anaplase-tou-demotikou-kepou-leykosias-e-leykosia-den-kleronomei-aplos-ten-istoria-tes/",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "KYPE",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Αρχιτεκτονικός διαγωνισμός για ανάπλαση του Δημοτικού Κήπου Λευκωσίας με προϋπολογισμό €4,1 εκατ.",
+          "link": "https://www.cna.org.cy/news/cyprus/architectural-competition-for-the-redevelopment-of-the-nicosia-municipal-garden-with-a-budget-of-e4-1-million",
+          "pubDate": "Fri, 17 Jul 2026 15:02:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Cyprus Faces High Fire Risk Amidst Soaring Temperatures",
+      "summary": "Authorities in Cyprus, including Polis Chrysochous municipality, are urging the public to take extreme caution due to high temperatures increasing the risk of wildfires. A fire in the Kokkinotrimithia buffer zone was brought under control, burning five hectares of vegetation. The Meteorological Department in the TRNC also forecasts temperatures up to 42 degrees Celsius.",
+      "biasDistribution": {
+        "Left": 1,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 2,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 1,
+        "English": 2
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Polis Chrysochous urges public to help prevent fires",
+          "link": "https://cyprus-mail.com/2026/07/17/polis-chrysochous-urges-public-to-help-prevent-fires",
+          "pubDate": "Fri, 17 Jul 2026 19:31:11 +0300"
+        },
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Fire in Kokkinotrimithia buffer zone under control",
+          "link": "https://cyprus-mail.com/2026/07/17/fire-in-kokkinotrimithia-buffer-zone-under-control",
+          "pubDate": "Fri, 17 Jul 2026 19:14:17 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Hava sıcaklığı 42 dereceye kadar yükselecek",
+          "link": "https://www.yeniduzen.com/hava-sicakligi-42-dereceye-kadar-yukselecek-197489h.htm",
+          "pubDate": "Fri, 17 Jul 2026 14:55:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Cyprus Pension Reforms to Bring Higher Incomes by Early 2027",
+      "summary": "Labour Minister Marinos Mousiouttas announced that pension reforms are on track, with higher payments expected for pensioners starting February 1, 2027. The bill for the first pillar of the pension system will soon be presented to social partners and then submitted to parliament, aiming to ensure the social insurance fund's long-term sustainability and improve pension adequacy.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 1,
+        "Center": 3,
+        "Center-Right": 3,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 3,
+        "Turkish": 1,
+        "English": 3
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Pensioners to see higher incomes in early 2027",
+          "link": "https://cyprus-mail.com/2026/07/17/pensioners-to-see-higher-incomes-in-early-2027",
+          "pubDate": "Fri, 17 Jul 2026 17:37:24 +0300"
+        },
+        {
+          "source": "POLITIS",
+          "community": "English",
+          "bias": "Center-Left",
+          "title": "Cyprus Pension Reform Sets Out Increases of 5% to 55%",
+          "link": "https://www.politis.com.cy/newsroom/1019939/cyprus-pension-reform-sets-out-increases-of-5-to-55",
+          "pubDate": "Mon, 07 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "Knews",
+          "community": "English",
+          "bias": "Center",
+          "title": "Landmark pension reform eyes January 2027 rollout with hikes up to 55%",
+          "link": "https://www.knews.com.cy/en/landmark-pension-reform-eyes-january-2027-rollout-with-hikes-up-to-55",
+          "pubDate": "Mon, 07 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "European Pensions",
+          "community": "English",
+          "bias": "Center",
+          "title": "Cyprus targets January 2027 launch for pension reform",
+          "link": "https://www.europeanpensions.net/news/cyprus-targets-january-2027-launch-for-pension-reform",
+          "pubDate": "Tue, 09 Jun 2026 00:00:00 +0300"
+        },
+        {
+          "source": "CyprusReporter",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Συνταξιοδοτική μεταρρύθμιση: Αυξήσεις έως 55% στις συντάξεις από το 2027 – Τι αλλάζει στο νέο σύστημα",
+          "link": "https://cyprusreporter.com/2026/07/07/syntaksiodotiki-metarrythmisi-ayxiseis-eos-55-stis-syntakseis-apo-to-2027-ti-allazei-sto-neo-systima/",
+          "pubDate": "Mon, 07 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "RIK News",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Στη Βουλή τον Σεπτέμβριο το νομοσχέδιο για τη συνταξιοδοτική μεταρρύθμιση",
+          "link": "https://news.rik.cy/article/2026/7/17/ste-boule-ton-septembrio-to-nomoskhedio-gia-te-suntaxiodotike-metarruthmise/",
+          "pubDate": "Fri, 17 Jul 2026 16:43:00 +0300"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Στη Βουλή τον Σεπτέμβριο το νομοσχέδιο συντάξεων",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748114/sti-bouli-ton-septembrio-to-nomoschedio-syntaxeon/",
+          "pubDate": "Fri, 17 Jul 2026 16:25:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Esen Beyköylü Appointed Acting Mayor of Yeniboğaziçi Municipality",
+      "summary": "Esen Beyköylü has been appointed as the acting mayor of Yeniboğaziçi Municipality following the arrest and imprisonment of the previous mayor, Katip Demir. Beyköylü, a CTP municipal council member, secured the position with 8 votes and will serve until the local elections on December 6.",
+      "biasDistribution": {
+        "Left": 1,
+        "Center-Left": 0,
+        "Center": 2,
+        "Center-Right": 0,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 3,
+        "English": 0
+      },
+      "articles": [
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Yeniboğaziçi Belediyesi'nde yeni başkan Esen Beyköylü oldu",
+          "link": "https://www.yeniduzen.com/yenibogazici-belediyesinde-yenibaskan-esen-beykoylu-oldu-197521h.htm",
+          "pubDate": "Fri, 17 Jul 2026 20:18:00 +0300"
+        },
+        {
+          "source": "Haber Kıbrıs",
+          "community": "Turkish",
+          "bias": "Center",
+          "title": "Yeniboğaziçi Belediyesi Başkanlığına Esen Beyköylü vekalet edecek",
+          "link": "https://www.haberkibris.com/yenibogazici-belediyesi-baskanligina-esen-beykoylu-vekalet-edecek-2026-07-17",
+          "pubDate": "Fri, 17 Jul 2026 20:01:00 +0300"
+        },
+        {
+          "source": "Topuz Gazetesi",
+          "community": "Turkish",
+          "bias": "Center",
+          "title": "Yeniboğaziçi Belediyesi'nde Yeni Başkan Esen Beyköylü",
+          "link": "https://www.topuzgazetesi.com/yenibogazici-belediyesinde-yeni-baskan-esen-beykoylu/",
+          "pubDate": "Fri, 17 Jul 2026 20:01:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Father Remains Detained After Death of 3-Year-Old in Paphos Hotel Fall",
+      "summary": "The father of a three-year-old British boy who died after falling from a hotel window in Paphos remains in custody, despite his lawyer's request for immediate release. The police file has been sent to the Legal Service for instructions, and the father's lawyer has criticized the delay, emphasizing the family's need to inform their five-year-old daughter about her brother's death.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 4,
+        "Center-Right": 2,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 4,
+        "Turkish": 0,
+        "English": 2
+      },
+      "articles": [
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Θάνατος τρίχρονου παιδιού: Παραμένει στο κελί ο πατέρας – Έντονος ο δικηγόρος του για τη στάση Αστυνομίας και Νομικής Υπηρεσίας",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748078/thanatos-trichronou-pediou-parameni-sto-keli-o-pateras-entonos-o-dikigoros-tou-gia-ti-stasi-astinomias-ke-nomikis-ipiresias/",
+          "pubDate": "Fri, 17 Jul 2026 15:01:36 +0000"
+        },
+        {
+          "source": "Cyprus Inform",
+          "community": "English",
+          "bias": "Center",
+          "title": "British father of boy killed in Paphos hotel fall demands release from custody",
+          "link": "https://www.cyprusinform.com/en/news/british-father-of-boy-killed-in-paphos-hotel-fall-demands-release-from-custody",
+          "pubDate": "Thu, 16 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "The Mirror",
+          "community": "English",
+          "bias": "Center",
+          "title": "Dad charged after Brit boy, 3, died after falling from Cyprus hotel window 'playing aeroplanes'",
+          "link": "https://www.mirror.co.uk/news/world-news/dad-charged-after-brit-boy-32364007",
+          "pubDate": "Mon, 14 Jul 2026 04:00:00 +0300"
+        },
+        {
+          "source": "RIK News",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Υπό 8ήμερη κράτηση ο πατέρας του 3χρονου αγοριού που έχασε τη ζωή του σε ξενοδοχείο στην Πάφο",
+          "link": "https://news.rik.cy/article/2026/7/13/upo-8emere-kratese-o-pateras-tou-3khronou-agoriou-pou-ekhase-te-zoe-/",
+          "pubDate": "Sun, 13 Jul 2026 16:07:00 +0300"
+        },
+        {
+          "source": "Ant1 Cyprus",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Θάνατος 3χρονου στην Πάφο: Ο φάκελος πάει στη Νομική Υπηρεσία - Προς αποφυλάκιση ο πατέρας",
+          "link": "https://www.ant1live.com/news/cyprus/article/577093/thanatos-3chronou-sten-pafo-o-phakelos-paei-ste-nomike-yperesia-pros-apophylakise-o-pateras/",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "OmegaLive",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Θάνατος 3χρονου: Επέστρεψε στην Αστυνομία ο φάκελος της υπόθεσης – Παραμένει υπό κράτηση ο πατέρας",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTtQ1AICKm2I9z_Kynrw0XmQWG9FYVA4HKMCSnexPg4I49K6FT5ECZ-aY89grmDkEF0dIl0kWdExSWe4sqrTRqDdkakAw9PQRM5dINUkfQYOeNK49IU74DLl_1___xoln-ezAVcY2KpvPtzznumBCnESzpRmfezOVIw5rk50hya7I4xN4jcfQydCLs7VRzBU7SjmB9_Ts5b30H9FmqgSpI51V_09hVFylFFC14e_O7I3z1mWhvrwB_N1yv9HpcMTDbhiM",
+          "pubDate": "Fri, 17 Jul 2026 14:57:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "US Delegation Reviews Cyprus's Progress Towards Visa Waiver Program",
+      "summary": "A high-level US Department of Homeland Security delegation visited Cyprus to assess the country's advancements in meeting the requirements for the Visa Waiver Program. Discussions with Cypriot officials focused on strengthening border security and combating irregular migration, with Cyprus having completed the technical criteria for inclusion.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 4,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 3,
+        "Turkish": 2,
+        "English": 2
+      },
+      "articles": [
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Πρεσβεία των ΗΠΑ στην Κύπρο: Συζητήθηκε η πρόοδος της Κύπρου για ένταξη στο πρόγραμμα απαλλαγής από Βίζα – Αμερικανοί αξιωματούχοι βρέθηκαν στο νησί",
+          "link": "https://www.philenews.com/politiki/article/1748188/presvia-ton-ipa-stin-kipro-sizitithike-i-proodos-tis-kiprou-gia-entaxi-sto-programma-apallagis-apo-viza-amerikani-axiomatouchi-vrethikan-sto-nisi/",
+          "pubDate": "Fri, 17 Jul 2026 16:58:27 +0000"
+        },
+        {
+          "source": "Knews",
+          "community": "English",
+          "bias": "Center",
+          "title": "U.S. officials in Cyprus for final checks before visa-free travel greenlight",
+          "link": "https://www.knews.com.cy/en/u-s-officials-in-cyprus-for-final-checks-before-visa-free-travel-greenlight",
+          "pubDate": "Mon, 14 Apr 2025 00:00:00 +0300"
+        },
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "US DHS delegation reviews Cyprus's Visa Waiver Programme progress",
+          "link": "https://cyprus-mail.com/2026/07/17/us-dhs-delegation-reviews-cypruss-visa-waiver-programme-progress/",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "Kıbrıs Haber Ajansı",
+          "community": "Turkish",
+          "bias": "Center",
+          "title": "ABD ile stratejik iş birliğinde vize muafiyeti gündemi",
+          "link": "https://www.kha.com.cy/tr/haberler/abd-ile-stratejik-is-birliginde-vize-muafiyeti-gundemi",
+          "pubDate": "Wed, 13 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "RIK News",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Στην Κύπρο ο Υφυπουργός Εσωτερικής Ασφαλείας των ΗΠΑ – Στην ατζέντα το πρόγραμμα απαλλαγής από βίζα",
+          "link": "https://news.rik.cy/article/2026/7/12/sten-kupro-o-uphupourgos-esoterikes-asphaleias-ton-epa-sten-atzenta-to-programma-apallages-apo-biza/",
+          "pubDate": "Sun, 12 Jul 2026 17:30:00 +0300"
+        },
+        {
+          "source": "Offsite",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Ειδικοί από τις ΗΠΑ στην Κύπρο για αξιολόγηση ένταξης στο πρόγραμμα απαλλαγής από βίζα",
+          "link": "https://www.offsite.com.cy/articles/eidiseis/kypros/547890-eidiko-apo-tis-ipa-stin-kypro-gia-axiologisi-entaxis-sto-programma-apallagis-apo-biza",
+          "pubDate": "Mon, 13 Apr 2025 00:00:00 +0300"
+        },
+        {
+          "source": "Bugün Kıbrıs",
+          "community": "Turkish",
+          "bias": "Center",
+          "title": "Kıbrıs, ABD Vize Muafiyet Programı'nın teknik şartlarını tamamladı",
+          "link": "https://www.bugunkibris.com/kibris-abd-vize-muafiyet-programinin-teknik-sartlarini-tamamladi/",
+          "pubDate": "Mon, 14 Jul 2026 00:00:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "EU Calls on Turkey to Renounce Threats Amidst Strategic Document Release; Turkey Responds",
+      "summary": "The EU's \"Common Understanding\" document urges Turkey to commit to good neighborly relations and renounce threats, with the Cyprus problem's resolution being a priority for enhanced EU-Turkey cooperation. Turkey's Foreign Ministry strongly criticized the document, calling its references to Turkey \"devoid of a strategic and fair approach\" and its claims regarding the Eastern Mediterranean and Cyprus \"baseless.\"",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 2,
+        "Center-Right": 4,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 3,
+        "Turkish": 4,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Στρατηγικό έγγραφο των «27» της ΕΕ: Καλούν την Τουρκία να αποκηρύξει τις απειλές και να δεσμευθεί για σχέσης καλής γειτονίας",
+          "link": "https://www.philenews.com/politiki/article/1748082/stratigiko-engrafo-ton-27-tis-ee-kaloun-tin-tourkia-na-apokirixi-tis-apiles-ke-na-desmefthi-gia-schesis-kalis-gitonias/",
+          "pubDate": "Fri, 17 Jul 2026 15:16:12 +0000"
+        },
+        {
+          "source": "Milliyet",
+          "community": "Turkish",
+          "bias": "Center-Right",
+          "title": "AB-Türkiye ilişkilerinde 'Ama Kıbrıs!'",
+          "link": "https://www.milliyet.com.tr/yazarlar/guldener-sonumut/ab-turkiye-iliskilerinde-ama-kibris-7281096",
+          "pubDate": "Mon, 13 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "Cyprus Mirror",
+          "community": "English",
+          "bias": "Center",
+          "title": "EU 'Common Understanding' Document Lacks Strategic, Fair Approach, Says Turkey",
+          "link": "https://www.cyprusmirror.com/en/news/eu-common-understanding-document-lacks-strategic-fair-approach-says-turkey",
+          "pubDate": "Wed, 17 Jul 2026 13:22:00 +0300"
+        },
+        {
+          "source": "Sigmalive",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Η ΕΕ καλεί την Τουρκία να αποκηρύξει απειλές – Η αναφορά σε Κυπριακό",
+          "link": "https://www.sigmalive.com/news/international/1254890/i-ee-kalei-tin-tourkia-na-apokiryxei-apeiles-i-anafora-se-kypriako",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "STAR",
+          "community": "Turkish",
+          "bias": "Center-Right",
+          "title": "AB'nin asılsız ithamlarına sert tepki! Dışişleri: Stratejik yaklaşımdan yoksun",
+          "link": "https://www.star.com.tr/politika/abnin-asilsiz-ithamlarina-sert-tepki-disisleri-stratejik-yaklasimdan-yoksun-haber-1852702/",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "Haberler",
+          "community": "Turkish",
+          "bias": "Center",
+          "title": "Dışişleri Bakanlığı Sözcüsü Keçeli'den, AB'nin \"Ortak Anlayış\" belgesine ilişkin açıklama Açıklaması",
+          "link": "https://www.haberler.com/disisleri-bakanligi-sozcusu-keceliden-abnin-ortak-anlayis-belgesine-iliskin-aciklama-aciklamasi-19277054-haberi/",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "Operative Information Center",
+          "community": "English",
+          "bias": "Center",
+          "title": "Türkiye criticizes biased EU document on bilateral relations",
+          "link": "https://www.omm.com.tr/en/news/turkiye-criticizes-biased-eu-document-on-bilateral-relations",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "Kathimerini.com.cy",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Τουρκία κατά Ε.Ε.: «Αβάσιμες» οι αναφορές για το Κυπριακό",
+          "link": "https://www.kathimerini.com.cy/gr/kypros/tourkia-kata-e-e-abasimes-oi-anafores-gia-to-kypriako",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Ukrainian-Cypriot Oligarch Accuses Ukrainian Intelligence of Monaco Bomb Attack",
+      "summary": "Vadym Iermolaiev, a Ukrainian-born businessman with Cypriot citizenship, has publicly accused Ukraine's military intelligence service (GUR) of being behind a bomb attack in Monaco that seriously injured him, his partner, and their son. The alleged bomber was later found dead in Ukraine, and two suspects with ties to Ukrainian intelligence have been arrested in connection with her death.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 1,
+        "Center": 5,
+        "Center-Right": 3,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 4,
+        "Turkish": 2,
+        "English": 3
+      },
+      "articles": [
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Βίντεο-ντοκουμέντο από την απόπειρα δολοφονίας του «Κύπριου» ολιγάρχη Γερμολάγιεφ – Οι δράστες κατέγραψαν την επίθεση για να επιβεβαιώσουν την εκτέλεση",
+          "link": "https://www.philenews.com/kosmos/article/1748211/vinteo-ntokoumento-apo-tin-apopira-dolofonias-tou-kipriou-oligarchi-germolagief-i-drastes-kategrafan-tin-epithesi-me-diki-tous-kamera-ke-epichirisan-na-katastrepsoun-to-vinteo/",
+          "pubDate": "Fri, 17 Jul 2026 18:23:38 +0000"
+        },
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Cypriot citizen Iermolaiev accuses Ukrainian intelligence of ordering Monaco bomb attack",
+          "link": "https://cyprus-mail.com/2026/07/17/cypriot-citizen-iermolaiev-accuses-ukrainian-intelligence-of-ordering-monaco-bomb-attack/",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "Newsbomb",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Μονακό: Νέο βίντεο από την απόπειρα δολοφονίας του Ουκρανού Ολιγάρχη - Ανακτήθηκαν τα πλάνα",
+          "link": "https://www.newsbomb.gr/kosmos/story/1586749/monako-neo-vinteo-apo-tin-apopeira-dolofonias-tou-oukranou-oligarchi-anaktithikan-ta-plana",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "NewsIT",
+          "community": "Greek",
+          "bias": "Center",
+          "title": "Μονακό: Η πρώτη δήλωση του Ουκρανού ολιγάρχη μετά τη βομβιστική επίθεση - «Δεν ήταν προειδοποίηση - Ήθελαν να μας σκοτώσουν»",
+          "link": "https://www.newsit.gr/kosmos/monako-i-proti-dilosei-tou-oukranou-oligarchi-meta-ti-bombistiki-epithesi-den-itan-proeidopoiisi-ithelan-na-mas-skotosoun/4096054/",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "The Guardian",
+          "community": "English",
+          "bias": "Center-Left",
+          "title": "Target of Monaco bomb blames attack on Ukrainian spy agency",
+          "link": "https://www.theguardian.com/world/2026/jul/17/target-of-monaco-bomb-blames-attack-on-ukrainian-spy-agency",
+          "pubDate": "Thu, 17 Jul 2026 10:51:00 +0300"
+        },
+        {
+          "source": "UA.NEWS",
+          "community": "English",
+          "bias": "Center",
+          "title": "Following the explosion in Monaco, Yermolayev accused the Main Intelligence Directorate of an assassination attempt",
+          "link": "https://ua.news/en/following-the-explosion-in-monaco-yermolayev-accused-the-main-intelligence-directorate-of-an-assassination-attempt/",
+          "pubDate": "Thu, 16 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "Patronlar Dünyası",
+          "community": "Turkish",
+          "bias": "Center-Right",
+          "title": "Monaco'daki suikast girişiminin başüphelisi Ukrayna'da ölü bulundu",
+          "link": "https://www.patronlardunyasi.com/haber/monacodaki-suikast-girisiminin-basuphelisi-ukraynada-olu-bulundu/301549",
+          "pubDate": "Mon, 07 Jul 2026 05:43:00 +0300"
+        },
+        {
+          "source": "Zougla",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Μονακό: Ο ολιγάρχης κατηγορεί τις μυστικές υπηρεσίες του Ζελένσκι για την απόπειρα δολοφονίας του",
+          "link": "https://www.zougla.gr/kosmos/article/monako-o-oligaxis-katigorei-tis-mistikes-ipiresies-tou-zelenski-gia-tin-apopeira-dolofonias-tou",
+          "pubDate": "Wed, 16 Jul 2026 00:00:00 +0300"
+        },
+        {
+          "source": "Yunan Postası",
+          "community": "Turkish",
+          "bias": "Center",
+          "title": "Monako'daki bombalı saldırıdan kurtulan oligark, Ukrayna istihbaratını suçladı",
+          "link": "https://yunanpostasi.com/monakodaki-bombali-saldiridan-kurtulan-oligark-ukrayna-istihbaratini-sucladi/",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Turkish Cypriot Government Faces Scrutiny Over Citizenship Grants",
+      "summary": "The Turkish Cypriot Council of Ministers has granted citizenship to 131 individuals, while reports suggest the government is preparing to grant exceptional citizenship to another 260 people before local elections. This move has drawn criticism from unions regarding the timing and potential political motivations.",
+      "biasDistribution": {
+        "Left": 2,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 0,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 2,
+        "English": 0
+      },
+      "articles": [
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Bakanlar Kurulu'ndan 131 kişiye vatandaşlık",
+          "link": "https://www.yeniduzen.com/bakanlar-kurulundan-131-kisiye-vatandaslik-197523h.htm",
+          "pubDate": "Fri, 17 Jul 2026 23:04:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "\"Hükümet, 260 kişiye istisnai yurttaşlık vermeye hazırlanıyor\"",
+          "link": "https://www.yeniduzen.com/hukumet-260-kisiye-istisnai-yurttaslik-vermeye-hazirlaniyor-197494h.htm",
+          "pubDate": "Fri, 17 Jul 2026 15:23:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Debates on Patient Rights and Health System in Northern Cyprus",
+      "summary": "Several opinion pieces from Yeni Duzen discuss the state of patient rights and the health system in Northern Cyprus. Authors emphasize that health is a fundamental human right, not a privilege, and call for stronger institutions, scientific planning, and effective oversight to ensure quality and accessible healthcare.",
+      "biasDistribution": {
+        "Left": 17,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 0,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 17,
+        "English": 0
+      },
+      "articles": [
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "“Ulusal tabip birliklerine her zamankinden daha çok ihtiyaç duyuluyor”",
+          "link": "https://www.yeniduzen.com/ulusal-tabip-birliklerine-her-zamankinden-daha-cok-ihtiyac-duyuluyor-197518h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:55:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Şölen Külahı: KKTC’de Sağlık - Bir Hak mı, Bir Şans mı?",
+          "link": "https://www.yeniduzen.com/solen-kulahci-kktcde-saglik-bir-hak-mi-bir-sans-mi-197512h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:40:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Dr. Sıla Usar İncirli ile söyleşi: Ülkemizde hasta hakları ve sağlık sistemi",
+          "link": "https://www.yeniduzen.com/dr-sila-usar-incirli-ile-soylesi-ulkemizde-hasta-haklari-ve-saglik-sistemi-197511h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:35:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Özlem Latif Erdoğmuş: Kıbrıs’ın Kuzeyinde Sağlık Hakkı ve Güncel Tartışmalar",
+          "link": "https://www.yeniduzen.com/ozlem-latif-erdogmus-kibrisin-kuzeyinde-saglik-hakki-ve-guncel-tartismalar-197509h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:25:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Özlem Gürkut: Sağlık Hakkı Kâğıt Üzerinde Kalınca",
+          "link": "https://www.yeniduzen.com/ozlem-gurkut-saglik-hakki-kagit-uzerinde-kalinca-197508h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:20:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Okan Dağlı: Kıbrıs Cumhuriyeti’nde bir başarı öyküsü…",
+          "link": "https://www.yeniduzen.com/okan-dagli-kibris-cumhuriyetinde-bir-basari-oykusu-197506h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:15:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Ceyhun Dalkan: Sağlığa Erişimde Hasta Hakları",
+          "link": "https://www.yeniduzen.com/ceyhun-dalkan-sagliga-erisimde-hasta-haklari-197496h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:10:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Ayşe Gökyiğit: Eczacı Gökyiğit: Eczacı Gözüyle KKTC’de Hasta Hakları",
+          "link": "https://www.yeniduzen.com/ayse-gokyigit-eczaci-gozuyle-kktcde-hasta-haklari-197495h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:05:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Gaile 529: Editörün Notu",
+          "link": "https://www.yeniduzen.com/gaile-529-editorun-notu-197493h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:00:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Mine Bahçeci: Geleceğin Güvencesi - KKTC'de Anne ve Çocuk Sağlığında Hasta Haklarının Hayati Rolü",
+          "link": "https://www.yeniduzen.com/mine-bahceci-gelecegin-guvencesi-kktcde-anne-ve-cocuk-sagliginda-hasta-haklarinin-ha-197505h.htm",
+          "pubDate": "Fri, 17 Jul 2026 17:55:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Gülsen Bozkurt ile Söyleşi: “Hasta Olmak, Hakkı Olan Bir Özne Olmak mı, Sistemin İnsafına Bırakılmış Bir Vaka Olmak mı?”",
+          "link": "https://www.yeniduzen.com/gulsen-bozkurt-ile-soylesi-hasta-olmak-hakki-olan-bir-ozne-olmak-mi-sistemin-insafin-197503h.htm",
+          "pubDate": "Fri, 17 Jul 2026 17:50:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Güley Bilgi Abatay: Hasta Psikolojisi ve Dayanıklılık",
+          "link": "https://www.yeniduzen.com/guley-bilgi-abatay-hasta-psikolojisi-ve-dayaniklilik-197502h.htm",
+          "pubDate": "Fri, 17 Jul 2026 17:45:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Gül Kahveci: Önce İnsan, Sonra Tanı",
+          "link": "https://www.yeniduzen.com/gul-kahveci-once-insan-sonra-tani-197500h.htm",
+          "pubDate": "Fri, 17 Jul 2026 17:40:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Fatma Savaşkan: Hasta Haklarından Sağlıkta Kalite Kültürüne",
+          "link": "https://www.yeniduzen.com/fatma-savaskan-hasta-haklarindan-saglikta-kalite-kulturune-197499h.htm",
+          "pubDate": "Fri, 17 Jul 2026 17:30:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Emete İmge: Hasta Hakları Kimin Gailesi?",
+          "link": "https://www.yeniduzen.com/emete-imge-hasta-haklari-kimin-gailesi-197498h.htm",
+          "pubDate": "Fri, 17 Jul 2026 17:25:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Uluğ İlve Yücesoy: Hasta Çocuklar İçin Çocuk Dostu Adalet Kavramı",
+          "link": "https://www.yeniduzen.com/ulug-ilve-yucesoy-hasta-cocuklar-icin-cocuk-dostu-adalet-kavrami-197513h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:45:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Sibel Hançerli: Görünmeyeni Görmek",
+          "link": "https://www.yeniduzen.com/sibel-hancerli-gorunmeyeni-gormek-197510h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:30:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Cumhurbaşkanı Erhürman, Dünya Tabipler Birliği Başkanı Dr. Jacqueline Kitulu’yu kabul etti",
+          "link": "https://www.yeniduzen.com/cumhurbaskani-erhurman-dunya-tabipler-birligi-baskani-dr-jacqueline-kituluyu-kabul-e-197490h.htm",
+          "pubDate": "Fri, 17 Jul 2026 15:03:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "\"Billboard Crisis\" Exposes Cracks in Turkish Cypriot Coalition Government",
+      "summary": "A \"billboard crisis\" has reportedly widened a rift within the Turkish Cypriot coalition government. Transport Minister Erhan Arıklı deflected questions about the Antik Liman pier to the UBP, stating that the UBP's billboards claimed sole credit for its renovation, implying a dispute over political ownership and responsibility.",
+      "biasDistribution": {
+        "Left": 2,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 0,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 2,
+        "English": 0
+      },
+      "articles": [
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "“O zaman o makamda niye oturuyorsun?”",
+          "link": "https://www.yeniduzen.com/o-zaman-o-makamda-niye-oturuyorsun-197520h.htm",
+          "pubDate": "Fri, 17 Jul 2026 19:48:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Billboard krizi koalisyonda çatlağı büyüttü!",
+          "link": "https://www.yeniduzen.com/billboard-krizi-koalisyonda-catlagi-buyuttu-197504h.htm",
+          "pubDate": "Fri, 17 Jul 2026 16:15:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Cypriot Football Clubs Announce New Player Signings",
+      "summary": "Cypriot football clubs Omonia and Apollon Limassol have been active in the transfer market. Omonia is set to officially announce the signing of 33-year-old French forward Lois Diony, a personal choice of coach Henning Berg, while Apollon Limassol has secured the transfer of central defender Emmanuel Agyemang from Austrian Sturm Graz.",
+      "biasDistribution": {
+        "Left": 3,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 0,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 3,
+        "Turkish": 0,
+        "English": 0
+      },
+      "articles": [
+        {
+          "source": "Haravgi",
+          "community": "Greek",
+          "bias": "Left",
+          "title": "Έσκασαν ανακοίνωση για Ντιονί / Έφερε αυτόν που ήθελε ο Μπεργκ",
+          "link": "https://dialogos.com.cy/eskase-anakoinosi-gia-ntioni-efere-ayton-poy-ithele-o-mpergk/",
+          "pubDate": "Fri, 17 Jul 2026 18:17:32 +0000"
+        },
+        {
+          "source": "Haravgi",
+          "community": "Greek",
+          "bias": "Left",
+          "title": "Η Αυστριακή Στούρμ Γκράζ πρόλαβε τον Απόλλωνα και ανακοίνωσε πρώτη την μεταγραφή του κεντρικού αμυντικού (photo)",
+          "link": "https://dialogos.com.cy/i-aystiaki-stoyrm-gkraz-prolave-ton-apollona-kai-anakoinose-proti-tin-metagrafi-toy-kentrikoy-amyntikoy-photo/",
+          "pubDate": "Fri, 17 Jul 2026 18:17:30 +0000"
+        },
+        {
+          "source": "Haravgi",
+          "community": "Greek",
+          "bias": "Left",
+          "title": "Έρχεται ανακοίνωση (Ομόνοια)",
+          "link": "https://dialogos.com.cy/erchetai-anakoinosi-omonoia/",
+          "pubDate": "Fri, 17 Jul 2026 17:58:39 +0000"
+        }
+      ]
+    },
+    {
+      "headline": "International News Roundup",
+      "summary": "A collection of international news stories includes Marvel Comics relocating to California, Israeli strikes in Gaza, SpaceX's Starship launch attempt, Netflix missing earnings targets, and a parasite found in fast food lettuce causing an intestinal epidemic.",
+      "biasDistribution": {
+        "Left": 2,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 5,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 2,
+        "Turkish": 1,
+        "English": 5
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Marvel Comics to move publishing operations to California, report says",
+          "link": "https://cyprus-mail.com/2026/07/17/marvel-comics-to-move-publishing-operations-to-california-report-says",
+          "pubDate": "Fri, 17 Jul 2026 22:55:00 +0300"
+        },
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Israeli strikes kill Palestinians attending Gaza funeral for earlier strike victim",
+          "link": "https://cyprus-mail.com/2026/07/17/israeli-strikes-kill-palestinians-attending-gaza-funeral-for-earlier-strike-victim",
+          "pubDate": "Fri, 17 Jul 2026 22:27:00 +0300"
+        },
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "SpaceX targets next week for another Starship launch attempt as shares slide on abort",
+          "link": "https://cyprus-mail.com/2026/07/17/spacex-targets-next-week-for-another-starship-launch-attempt-as-shares-slide-on-abort",
+          "pubDate": "Fri, 17 Jul 2026 21:15:51 +0300"
+        },
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Netflix misses earnings targets as growth enters a steadier phase",
+          "link": "https://cyprus-mail.com/2026/07/17/netflix-misses-earnings-targets-as-growth-enters-a-steadier-phase",
+          "pubDate": "Fri, 17 Jul 2026 18:02:00 +0300"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Πόλεμος στην Ουκρανία: Τουλάχιστον 10 νεκροί και πολλοί τραυματίες εξαιτίας επιθέσεων",
+          "link": "https://www.philenews.com/kosmos/article/1748230/polemos-stin-oukrania-toulachiston-10-nekri-ke-polli-travmaties-exetias-epitheseon/",
+          "pubDate": "Fri, 17 Jul 2026 20:40:05 +0000"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Ιράν: Οι Φρουροί της Επανάστασης άνοιξαν πυρ εναντίον πλοίου στα Στενά του Ορμούζ",
+          "link": "https://www.philenews.com/kosmos/article/1748223/iran-i-frouri-tis-epanastasis-anixan-pir-enantion-pliou-sta-stena-tou-ormouz/",
+          "pubDate": "Fri, 17 Jul 2026 19:54:39 +0000"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Axios: Ο Τραμπ εξετάζει κλιμάκωση κατά του Ιράν – Δεκάδες αμερικανικά αεροσκάφη στέλνονται στο Ισραήλ",
+          "link": "https://www.philenews.com/kosmos/article/1748215/axios-o-trab-exetazi-klimakosi-kata-tou-iran-dekades-amerikanika-aeroskafi-stelnonte-sto-israil/",
+          "pubDate": "Fri, 17 Jul 2026 18:31:55 +0000"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Μουντιάλ: Η FIFA θα δώσει 30 δαχτυλίδια στους νικητές στα πρότυπα του NBA – Υπάρχουν 2026 κομμάτια, τα υπόλοιπα θα πουληθούν",
+          "link": "https://www.philenews.com/athlitika/article/1748092/mountial-i-fifa-tha-dosi-30-dachtilidia-stous-nikites-sta-protupa-tou-nba-iparchoun-2026-kommatia-ta-ipolipa-tha-poulithoun/",
+          "pubDate": "Fri, 17 Jul 2026 15:29:00 +0000"
+        },
+        {
+          "source": "Haravgi",
+          "community": "Greek",
+          "bias": "Left",
+          "title": "Παράσιτο που εντοπίστηκε στο μαρούλι πασίγνωστης αλυσίδας fast food υπεύθυνο για εντερική επιδημία",
+          "link": "https://dialogos.com.cy/parasito-poy-entopistike-sto-maroyli-pasignostis-alysidas-fast-foynt-ypeythyno-gia-enteriki-epidimia/",
+          "pubDate": "Fri, 17 Jul 2026 18:46:42 +0000"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Nasuh Mahruki 15 Temmuz paylaşımı nedeniyle tutuklandı",
+          "link": "https://www.yeniduzen.com/nasuh-mahruki-15-temmuz-paylasimi-nedenyle-tutuklandi-197486h.htm",
+          "pubDate": "Fri, 17 Jul 2026 14:31:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Diverse Cultural and Community Events Across Cyprus",
+      "summary": "Cyprus is hosting a variety of local events, including \"Cinema by the Sea\" screenings at beaches in Limassol, a successful theatrical performance in Drouseia, and the conclusion of Agia Marina celebrations in Agia Marina Chrysochous. In the Turkish Cypriot community, the Lefkoşa Turkish Municipality organized a Children's Festival in the Walled City.",
+      "biasDistribution": {
+        "Left": 1,
+        "Center-Left": 2,
+        "Center": 0,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 3,
+        "Turkish": 1,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Cinema by the sea arrives at Cyprus beaches",
+          "link": "https://cyprus-mail.com/2026/07/17/cinema-by-the-sea-arrives-at-cyprus-beaches",
+          "pubDate": "Fri, 17 Jul 2026 19:14:00 +0300"
+        },
+        {
+          "source": "Politis",
+          "community": "Greek",
+          "bias": "Center-Left",
+          "title": "Με μεγάλη επιτυχία η θεατρική παράσταση «Τα δικά μας του γείτονοου μας» στη Δρούσεια",
+          "link": "https://www.politis.com.cy/newsroom/1019997/me-meghali-epitikhia-i-theatriki-parastasi-ta-dika-mas-toy-ghitonoy-mas-sti-drouseia",
+          "pubDate": "Fri, 17 Jul 2026 23:29:00 +0300"
+        },
+        {
+          "source": "Politis",
+          "community": "Greek",
+          "bias": "Center-Left",
+          "title": "Με λαμπρότητα και κατάνυξη ολοκληρώθηκαν οι εορτασμοί της Αγίας Μαρίνας στην Αγία Μαρίνα Χρυσοχού",
+          "link": "https://www.politis.com.cy/newsroom/1019996/me-lamprotita-kai-kataniksi-oloklirwthikan-oi-eortasmi-tis-aghias-marinas-stin-aghia-marina-xrisokhous",
+          "pubDate": "Fri, 17 Jul 2026 22:52:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "LTB, Surlariçi Çocuk Festivali düzenledi",
+          "link": "https://www.yeniduzen.com/ltb-surlarici-cocuk-festivali-duzenledi-197488h.htm",
+          "pubDate": "Fri, 17 Jul 2026 14:47:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Technical Issues Delay Konia Roadworks Completion",
+      "summary": "The completion of roadworks in Konia, Paphos, has been delayed by a few days due to technical problems encountered by the contractor during asphalt laying. Paphos acting mayor Angelos Onisiforou assured that the municipality is closely monitoring the works to ensure a high-quality and safe project.",
       "biasDistribution": {
         "Left": 0,
         "Center-Left": 0,
@@ -285,139 +1515,93 @@
           "source": "Cyprus Mail",
           "community": "English",
           "bias": "Center-Right",
-          "title": "SpaceX targets next week for another Starship launch attempt as shares slide on abort",
-          "link": "https://cyprus-mail.com/2026/07/17/spacex-targets-next-week-for-another-starship-launch-attempt-as-shares-slide-on-abort"
+          "title": "Konia road to open to traffic on Tuesday",
+          "link": "https://cyprus-mail.com/2026/07/17/konia-road-to-open-to-traffic-on-tuesday",
+          "pubDate": "Fri, 17 Jul 2026 18:31:31 +0300"
         }
       ]
     },
     {
-      "headline": "Masterplan Initiated for Complete Regeneration of Pegeia's Traditional Core",
-      "summary": "A comprehensive Masterplan is being developed for the total regeneration and revitalization of the traditional core of Pegeia, Akamas Municipality. The €250,000 contract for studies and supervision was signed, with the overall project estimated to cost around €5.5 million, aiming to respect the area's architectural identity and cultural heritage.",
+      "headline": "Güzelyurt Municipality Begins Construction of \"Life Center\" for Seniors",
+      "summary": "Güzelyurt Municipality has commenced construction on its \"Life Center\" project, designed to support the social lives and promote active and healthy aging for citizens aged 60 and over. The initiative aims to provide a dedicated space for seniors in the community.",
       "biasDistribution": {
-        "Left": 0,
+        "Left": 1,
         "Center-Left": 0,
         "Center": 0,
-        "Center-Right": 1,
+        "Center-Right": 0,
         "Right": 0
       },
       "communityCoverage": {
-        "Greek": 1,
-        "Turkish": 0,
+        "Greek": 0,
+        "Turkish": 1,
         "English": 0
       },
       "articles": [
         {
-          "source": "Phileleftheros",
-          "community": "Greek",
-          "bias": "Center-Right",
-          "title": "Εκπονούν masteplan για την ολική ανάπλαση του παραδοσιακού πυρήνα της Πέγειας",
-          "link": "https://www.philenews.com/kipros/topika/article/1748195/ekponoun-masteplan-gia-tin-oliki-anaplasi-tou-paradosiakou-pirina-tis-pegias/"
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Güzelyurt'taki \"Yaşam Merkezi\" projesi inşaat aşamasına geçti",
+          "link": "https://www.yeniduzen.com/guzelyurttaki-yasam-merkezi-projesi-insaat-asamasina-gecti-197487h.htm",
+          "pubDate": "Fri, 17 Jul 2026 14:44:00 +0300"
         }
       ]
     },
     {
-      "headline": "Casualties Reported in Ukraine and Russia Due to Recent Attacks",
-      "summary": "At least 10 people were killed and many injured in a series of attacks across Ukraine and Russia. Russian missile strikes hit Odesa, causing fatalities and injuries, while drone attacks affected Mykolaiv, Kherson, and the Russian region of Belgorod, resulting in further casualties and damage.",
+      "headline": "Traffic Closures in Lefke for Upcoming Triathlon Race",
+      "summary": "Temporary traffic closures will be implemented at intersections along the triathlon route in Lefke on Sunday due to an upcoming race. Motorists are advised to be aware of the disruptions.",
       "biasDistribution": {
-        "Left": 0,
+        "Left": 1,
         "Center-Left": 0,
         "Center": 0,
-        "Center-Right": 1,
+        "Center-Right": 0,
         "Right": 0
       },
       "communityCoverage": {
-        "Greek": 1,
-        "Turkish": 0,
+        "Greek": 0,
+        "Turkish": 1,
         "English": 0
       },
       "articles": [
         {
-          "source": "Phileleftheros",
-          "community": "Greek",
-          "bias": "Center-Right",
-          "title": "Πόλεμος στην Ουκρανία: Τουλάχιστον 10 νεκροί και πολλοί τραυματίες εξαιτίας επιθέσεων",
-          "link": "https://www.philenews.com/kosmos/article/1748230/polemos-stin-oukrania-toulachiston-10-nekri-ke-polli-travmaties-exetias-epitheseon/"
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Lefke’de, triatlon yarışı sırasında güzergahtaki kavşaklar trafiğe kapatılacak",
+          "link": "https://www.yeniduzen.com/lefkede-triatlon-yarisi-sirasinda-guzergahtaki-kavsaklar-trafige-kapatilacak-197497h.htm",
+          "pubDate": "Fri, 17 Jul 2026 15:40:00 +0300"
         }
       ]
     },
     {
-      "headline": "Successful Theatrical Performance \"Our Neighbors'\" Held in Droushia",
-      "summary": "The theatrical performance \"Our Neighbors'\" was presented with great success in Droushia. This local cultural event drew positive reception from the community.",
+      "headline": "Kıb-Tek Continues Construction of New Service Buildings",
+      "summary": "Construction work on Kıb-Tek's new service building projects is proceeding without interruption. These new facilities are part of ongoing efforts to enhance the infrastructure of the Turkish Cypriot Electricity Authority.",
       "biasDistribution": {
-        "Left": 0,
-        "Center-Left": 1,
+        "Left": 1,
+        "Center-Left": 0,
         "Center": 0,
         "Center-Right": 0,
         "Right": 0
       },
       "communityCoverage": {
-        "Greek": 1,
-        "Turkish": 0,
+        "Greek": 0,
+        "Turkish": 1,
         "English": 0
       },
       "articles": [
         {
-          "source": "Politis",
-          "community": "Greek",
-          "bias": "Center-Left",
-          "title": "Με μεγάλη επιτυχία η θεατρική παράσταση «Τα δικά μας του γείτονού μας» στη Δρούσεια",
-          "link": "https://www.politis.com.cy/newsroom/1019997/me-meghali-epitikhia-i-theatriki-parastasi-ta-dika-mas-toy-ghitonoy-mas-sti-drouseia"
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Kıb-Tek’in yeni hizmet binası yapımları devam ediyor",
+          "link": "https://www.yeniduzen.com/kib-tekin-yeni-hizmet-binasi-yapimlari-devam-ediyor-197507h.htm",
+          "pubDate": "Fri, 17 Jul 2026 16:27:00 +0300"
         }
       ]
     },
     {
-      "headline": "Agia Marina Festival Celebrations Conclude with Grandeur in Agia Marina Chrysochous",
-      "summary": "The celebrations for Agia Marina in Agia Marina Chrysochous concluded with splendor and reverence. The event marked a significant religious and cultural occasion for the local community.",
-      "biasDistribution": {
-        "Left": 0,
-        "Center-Left": 1,
-        "Center": 0,
-        "Center-Right": 0,
-        "Right": 0
-      },
-      "communityCoverage": {
-        "Greek": 1,
-        "Turkish": 0,
-        "English": 0
-      },
-      "articles": [
-        {
-          "source": "Politis",
-          "community": "Greek",
-          "bias": "Center-Left",
-          "title": "Με λαμπρότητα και κατάνυξη ολοκληρώθηκαν οι εορτασμοί της Αγίας Μαρίνας στην Αγία Μαρίνα Χρυσοχούς",
-          "link": "https://www.politis.com.cy/newsroom/1019996/me-lamprotita-kai-kataniksi-oloklirwthikan-oi-eortasmi-tis-aghia-marinas-stin-aghia-marina-xrisokhous"
-        }
-      ]
-    },
-    {
-      "headline": "Palestinian Ambassador to Cyprus Alleges \"Shock Plan\" for Crocodile Moats Around Israeli Prisons",
-      "summary": "The Palestinian Ambassador to Cyprus made a shocking claim, stating that there is a \"shock plan\" by Israel to implement moats filled with crocodiles around Israeli prisons. This accusation was highlighted as a disturbing development.",
-      "biasDistribution": {
-        "Left": 0,
-        "Center-Left": 1,
-        "Center": 0,
-        "Center-Right": 0,
-        "Right": 0
-      },
-      "communityCoverage": {
-        "Greek": 1,
-        "Turkish": 0,
-        "English": 0
-      },
-      "articles": [
-        {
-          "source": "Politis",
-          "community": "Greek",
-          "bias": "Center-Left",
-          "title": "Παλαιστίνιος Πρέσβης στην Κύπρο: «Σχέδιο-σοκ για τάφρους με κροκόδειλους γύρω από ισραηλινές φυλακές»",
-          "link": "https://www.politis.com.cy/politis-news/kosmos/1019939/palaistinios-presvis-skhedio-sok-ghia-tafroys-me-krokodeiloys-ghyro-apo-israilines-filakes"
-        }
-      ]
-    },
-    {
-      "headline": "Animal Abuse Complaints in Lakatamia Unresolved for Two Years, Ecologists Call for Action",
-      "summary": "The Ecologists' Movement has reported serious animal abuse incidents, including cats and dogs being shot on rooftops in Lakatamia, with complaints remaining unresolved for two years. They are urging authorities to take immediate action to investigate and address these issues.",
+      "headline": "Ecologists Movement Denounces Animal Cruelty in Lakatamia",
+      "summary": "The Ecologists Movement has raised serious allegations of animal abuse in Lakatamia, citing multiple incidents of cats and dogs being shot on rooftops since 2024. The movement calls for immediate action from authorities to investigate these cases and prevent further cruelty.",
       "biasDistribution": {
         "Left": 1,
         "Center-Left": 0,
@@ -436,13 +1620,14 @@
           "community": "Greek",
           "bias": "Left",
           "title": "Δύο χρόνια καταγγελίες χωρίς αποτέλεσμα – Πυροβολούν γατιά και σκυλιά σε ταράτσα",
-          "link": "https://dialogos.com.cy/dyo-chronia-kataggelies-choris-apotelesma-pyrovoloyn-gatia-kai-skylia-se-taratsa/"
+          "link": "https://dialogos.com.cy/dyo-chronia-kataggelies-choris-apotelesma-pyrovoloyn-gatia-kai-skylia-se-taratsa/",
+          "pubDate": "Fri, 17 Jul 2026 19:46:52 +0000"
         }
       ]
     },
     {
-      "headline": "€3 Fee Fails to Deter Cypriot Online Shoppers from Temu and Shein",
-      "summary": "Despite the implementation of a €3 fee per product category, Cypriot consumers continue to make large volumes of online purchases from popular platforms like Temu and Shein. This trend has generated over one million euros in state revenue within the first few months.",
+      "headline": "Online Shopping from Temu and Shein Remains Popular Despite New Fees",
+      "summary": "Despite the imposition of a €3 fee per product category, online shopping from platforms like Temu and Shein continues to be popular among Cypriot consumers. Data from the Customs Department indicates that state revenues from these purchases have exceeded one million euros in the initial period.",
       "biasDistribution": {
         "Left": 1,
         "Center-Left": 0,
@@ -461,65 +1646,66 @@
           "community": "Greek",
           "bias": "Left",
           "title": "Τα €3 δεν έβαλαν «φρένο» στις παραγγελίες – Τα στοιχεία που προκαλούν εντύπωση – «Βροχή» παραγγελιών από Temu και Shein",
-          "link": "https://dialogos.com.cy/ta-e3-den-evalan-freno-stis-paraggelies-ta-stoicheia-poy-prokaloyn-entyposi-vrochi-paraggelion-apo-temu-kai-shein/"
+          "link": "https://dialogos.com.cy/ta-e3-den-evalan-freno-stis-paraggelies-ta-stoicheia-poy-prokaloyn-entyposi-vrochi-paraggelion-apo-temu-kai-shein/",
+          "pubDate": "Fri, 17 Jul 2026 19:44:22 +0000"
         }
       ]
     },
     {
-      "headline": "Parasite in Fast Food Lettuce Linked to Intestinal Outbreak in US",
-      "summary": "US health authorities have identified a parasite found in lettuce sold by the fast-food chain Taco Bell as the cause of an ongoing intestinal illness epidemic in the country. A federal investigation is underway to address the widespread outbreak.",
+      "headline": "Miscellaneous Local News from Cyprus",
+      "summary": "This category includes a range of local news items such as a masterplan for Pegeia's traditional core, President Christodoulides' vision for Cyprus to host the World Cup, DIKO's commitment to a viable Cyprus solution, and the Palestinian Ambassador to Cyprus discussing a sensational plan for Israeli prisons.",
       "biasDistribution": {
         "Left": 1,
-        "Center-Left": 0,
+        "Center-Left": 2,
         "Center": 0,
-        "Center-Right": 0,
+        "Center-Right": 3,
         "Right": 0
       },
       "communityCoverage": {
-        "Greek": 1,
+        "Greek": 6,
         "Turkish": 0,
         "English": 0
       },
       "articles": [
         {
-          "source": "Haravgi",
+          "source": "Phileleftheros",
           "community": "Greek",
-          "bias": "Left",
-          "title": "Παράσιτο που εντοπίστηκε στο μαρούλι πασίγνωστης αλυσίδας fast food υπεύθυνο για εντερική επιδημία",
-          "link": "https://dialogos.com.cy/parasito-poy-entopistike-sto-maroyli-pasignostis-alysidas-fast-foynt-ypeythyno-gia-enteriki-epidimia/"
-        }
-      ]
-    },
-    {
-      "headline": "Omonia Nicosia Signs French Forward Lois Diony",
-      "summary": "French forward Lois Diony, 33, has signed with Omonia Nicosia after successfully completing medical examinations in Cyprus. Coach Henning Berg reportedly specifically sought Diony, believing he is a perfect fit for the team's playing style.",
-      "biasDistribution": {
-        "Left": 1,
-        "Center-Left": 0,
-        "Center": 0,
-        "Center-Right": 0,
-        "Right": 0
-      },
-      "communityCoverage": {
-        "Greek": 1,
-        "Turkish": 0,
-        "English": 0
-      },
-      "articles": [
+          "bias": "Center-Right",
+          "title": "Εκπονούν masteplan για την ολική ανάπλαση του παραδοσιακού πυρήνα της Πέγειας",
+          "link": "https://www.philenews.com/kipros/topika/article/1748195/ekponoun-masteplan-gia-tin-oliki-anaplasi-tou-paradosiakou-pirina-tis-pegias/",
+          "pubDate": "Fri, 17 Jul 2026 17:25:53 +0000"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Δεν κάνει πίσω ο Πρόεδρος για το Μουντιάλ: «Ναι, μπορούμε να το διεκδικήσουμε»",
+          "link": "https://www.philenews.com/athlitika/article/1748067/https-www-philenews-com-athlitika-article-1748067-den-kani-piso-o-proedros-gia-to-mountial-ne-boroume-na-to-diekdikisoume/",
+          "pubDate": "Fri, 17 Jul 2026 14:33:32 +0000"
+        },
+        {
+          "source": "Politis",
+          "community": "Greek",
+          "bias": "Center-Left",
+          "title": "Παλαιστίνιος Πρέσβης στην Κύπρο: «Σχέδιο-σοκ για τάφρους με κροκοδείλους γύρω από ισραηλινές φυλακές»",
+          "link": "https://www.politis.com.cy/politis-news/kosmos/1019939/palaistinios-presvis-skhedio-sok-ghia-tafroys-me-krokodeiloys-ghyro-apo-israilines-filakes",
+          "pubDate": "Fri, 17 Jul 2026 21:07:00 +0300"
+        },
         {
           "source": "Haravgi",
           "community": "Greek",
           "bias": "Left",
-          "title": "Έσκασε ανακοίνωση για Ντιονί / Έφερε αυτόν που ήθελε ο Μπεργκ",
-          "link": "https://dialogos.com.cy/eskase-anakoinosi-gia-ntioni-efere-ayton-poy-ithele-o-mpergk/"
+          "title": "Παπαδόπουλος: Το ΔΗΚΟ προσηλωμένο σε βιώσιμη λύση",
+          "link": "https://dialogos.com.cy/papadopoylos-to-diko-prosilomeno-se-viosimi-lysi/",
+          "pubDate": "Fri, 17 Jul 2026 17:51:43 +0000"
         }
       ]
     },
     {
-      "headline": "TRNC Transport Minister Criticized for Comments on Ancient Port Jetty",
-      "summary": "TRNC Transport Minister Erhan Arıklı faced criticism from Faik Gencer for his remarks to Yeniduzen, stating that UBP was the responsible party concerning the Ancient Port jetty issue. Gencer questioned Arıklı's position if he was not taking responsibility.",
+      "headline": "Turkish Cypriot Political Parties Discuss Elections and Coalition Issues",
+      "summary": "The UBP's Central Executive Board has proposed holding local and early general elections concurrently, a move that has reportedly widened cracks in the coalition government. Transport Minister Erhan Arıklı also criticized the UBP over a \"billboard crisis\" regarding credit for the Antik Liman renovation.",
       "biasDistribution": {
-        "Left": 1,
+        "Left": 2,
         "Center-Left": 0,
         "Center": 0,
         "Center-Right": 0,
@@ -527,7 +1713,7 @@
       },
       "communityCoverage": {
         "Greek": 0,
-        "Turkish": 1,
+        "Turkish": 2,
         "English": 0
       },
       "articles": [
@@ -535,8 +1721,109 @@
           "source": "Yeni Duzen",
           "community": "Turkish",
           "bias": "Left",
+          "title": "UBP MYK'dan \"iki seçim birlikte\" önerisi",
+          "link": "https://www.yeniduzen.com/ubp-mykdan-iki-secim-birlikte-onerisi-197519h.htm",
+          "pubDate": "Fri, 17 Jul 2026 19:31:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
           "title": "“O zaman o makamda niye oturuyorsun?”",
-          "link": "https://www.yeniduzen.com/o-zaman-o-makamda-niye-oturuyorsun-197520h.htm"
+          "link": "https://www.yeniduzen.com/o-zaman-o-makamda-niye-oturuyorsun-197520h.htm",
+          "pubDate": "Fri, 17 Jul 2026 19:48:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Billboard krizi koalisyonda çatlağı büyüttü!",
+          "link": "https://www.yeniduzen.com/billboard-krizi-koalisyonda-catlagi-buyuttu-197504h.htm",
+          "pubDate": "Fri, 17 Jul 2026 16:15:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Diverse Perspectives from Turkish Cypriot Columnists",
+      "summary": "This collection of opinion pieces from Yeni Duzen covers a range of topics including reflections on historical events, the impact of technology, and personal essays.",
+      "biasDistribution": {
+        "Left": 4,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 0,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 4,
+        "English": 0
+      },
+      "articles": [
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Hakkı Yücel: O Gece… Mum Işığında…!",
+          "link": "https://www.yeniduzen.com/hakki-yucel-o-gece-mum-isiginda-197516h.htm",
+          "pubDate": "Fri, 17 Jul 2026 19:00:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Ali Furkan Çetiner: Kiralık İnternet – Çocukluğumdan Bugüne",
+          "link": "https://www.yeniduzen.com/ali-furkan-cetiner-kiralik-internet-cocuklugumdan-bugune-197515h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:55:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Akile Ruh: Kangren sevdam",
+          "link": "https://www.yeniduzen.com/akile-ruh-kangren-sevdam-197514h.htm",
+          "pubDate": "Fri, 17 Jul 2026 18:50:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Eğri otur doğru konuş; Türkiye neden çözüm istesin?",
+          "link": "https://www.yeniduzen.com/egri-otur-dogru-konus-turkiye-neden-cozum-istesin-25787yy.htm",
+          "pubDate": "Fri, 17 Jul 2026 16:32:00 +0300"
+        }
+      ]
+    },
+    {
+      "headline": "Two Deaths Reported in Turkish Cypriot Community",
+      "summary": "Two separate incidents resulted in deaths in the Turkish Cypriot community. A 36-year-old man, Gökhan Yücel, passed away after falling ill in a hotel room in Famagusta, and an 84-year-old man, Osman Polatcan, died from injuries sustained in a work accident involving a hand hoe machine in Güzelyurt.",
+      "biasDistribution": {
+        "Left": 2,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 0,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 2,
+        "English": 0
+      },
+      "articles": [
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "Otel odasında rahatsızlanan 36 yaşındaki Gökhan Yücel yaşamını yitirdi",
+          "link": "https://www.yeniduzen.com/otel-odasinda-rahatsizlanan-36-yasindaki-gokhan-yucel-yasamini-yitirdi-197492h.htm",
+          "pubDate": "Fri, 17 Jul 2026 15:18:00 +0300"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "El çapası makinesine kapılan 84 yaşındaki Osman Polatcan yaşamını yitirdi",
+          "link": "https://www.yeniduzen.com/el-capasi-makinesine-kapilan-84-yasindaki-osman-polatcan-yasamini-yitirdi-197491h.htm",
+          "pubDate": "Fri, 17 Jul 2026 15:15:00 +0300"
         }
       ]
     }
