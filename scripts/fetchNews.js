@@ -19,12 +19,16 @@ const NEWS_SOURCES = [
   { name: 'Politis', url: 'https://politis.com.cy/feed', community: 'Greek', bias: 'Center-Left' },
   { name: 'Haravgi', url: 'https://dialogos.com.cy/feed/', community: 'Greek', bias: 'Left' },
   { name: 'Alithia', url: 'https://alithia.com.cy/feed/', community: 'Greek', bias: 'Right' },
-  // { name: 'Kibris', url: 'https://www.kibrisgazetesi.com/rss', community: 'Turkish', bias: 'Center-Right' }, // some RSS are hit and miss, we can adjust
-  { name: 'Yeniduzen', url: 'https://www.yeniduzen.com/rss.xml', community: 'Turkish', bias: 'Left' }
+  { name: 'Yeni Duzen', url: 'https://www.yeniduzen.com/rss', community: 'Turkish', bias: 'Left' },
+  { name: 'Kibris Gazetesi', url: 'https://www.kibrisgazetesi.com/rss.xml', community: 'Turkish', bias: 'Center-Right' }
 ];
 
 async function fetchAllFeeds() {
-  const parser = new Parser();
+  const parser = new Parser({
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    }
+  });
   const allArticles = [];
 
   for (const source of NEWS_SOURCES) {
@@ -32,8 +36,8 @@ async function fetchAllFeeds() {
       console.log(`Fetching from ${source.name}...`);
       const feed = await parser.parseURL(source.url);
       
-      // Get top 5 articles per source to avoid overwhelming the API
-      const topItems = feed.items.slice(0, 5);
+      // Get top 15 articles per source to get a good spread of news
+      const topItems = feed.items.slice(0, 15);
       
       topItems.forEach(item => {
         allArticles.push({
@@ -56,6 +60,9 @@ async function fetchAllFeeds() {
 
 async function analyzeWithGemini(articles) {
   const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" }); // Use appropriate fast/cheap model
+  
+  // To avoid hitting API free limits, cap the articles sent for analysis to 30.
+  const articlesToAnalyze = articles.slice(0, 30);
 
   const prompt = `
   You are an expert political analyst in Cyprus. 
@@ -72,7 +79,7 @@ async function analyzeWithGemini(articles) {
   Return the output as a clean JSON array of story objects. Do not include markdown formatting like \`\`\`json.
   
   Articles:
-  ${JSON.stringify(articles)}
+  ${JSON.stringify(articlesToAnalyze)}
   `;
 
   try {
