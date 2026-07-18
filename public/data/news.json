@@ -1,6 +1,162 @@
 {
-  "lastUpdated": "2026-07-17T22:37:56.555917Z",
+  "lastUpdated": "2026-07-18T16:15:39.615462Z",
   "stories": [
+    {
+      "headline": "Cyprus Prepares for Severe Heatwave and Increased Wildfire Risk",
+      "summary": "Cyprus is bracing for a significant heatwave with temperatures expected to exceed 40°C inland, prompting the Fire Brigade to implement emergency measures and schedule a national coordination meeting. The Health Ministry has issued public safety advice, while trade unions are calling for stricter protections for outdoor workers. The EU is also contributing to wildfire prevention efforts in Cyprus, including the establishment of a regional firefighting station.",
+      "shortAnalysis": "Reports across English, Greek, and Turkish Cypriot media consistently highlight the impending heatwave and the proactive measures being taken by authorities like the Fire Brigade and Health Ministry. The Greek and English press detail the Fire Brigade's comprehensive preparations and international cooperation, while the Turkish Cypriot press emphasizes the high temperatures and the need to protect workers from the heat. There is a shared concern for public safety and fire prevention across all communities.",
+      "factualityStatement": "A heatwave is forecast for Cyprus in July 2026, with inland temperatures reaching up to 42°C. The Fire Brigade is holding a meeting to discuss emergency measures, and various public bodies are issuing warnings and advice. The EU is also involved in supporting wildfire prevention in Cyprus.",
+      "biasDistribution": {
+        "Left": 1,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 3,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 2,
+        "Turkish": 1,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Heatwave triggers fire brigade emergency preparations",
+          "link": "https://cyprus-mail.com/2026/07/18/heatwave-triggers-fire-brigade-emergency-preparations"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Αλλοπρόσαλλος ο καιρός: Καταρρακτώδεις βροχές στα ορεινά, αλλά 40άρι στο εσωτερικό (βίντεο)",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748344/alloprosallos-o-keros-katarraktodis-vroches-sta-orina-alla-40ari-sto-esoteriko-vinteo/"
+        },
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Πυροσβεστική: Σε εγρήγορση για τις ψηλές θερμοκρασίες και τον καύσωνα – Ευρεία σύσκεψη την Τρίτη για λήψη έκτακτων μέτρων",
+          "link": "https://www.philenews.com/kipros/koinonia/article/1748324/pirosvestiki-se-egrigorsi-gia-tis-psiles-thermokrasies-ke-ton-kafsona-evria-siskepsi-tin-triti-gia-lipsi-ektakton-metron/"
+        },
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "“Güneş altında kesintisiz çalışma süreleri azaltılmalı”",
+          "link": "https://www.yeniduzen.com/gunes-altinda-kesintisiz-calisma-sureleri-azaltilmali-197538h.htm"
+        }
+      ]
+    },
+    {
+      "headline": "Turkey and US Reportedly Closer to Resolving F-35 and CAATSA Sanctions Dispute",
+      "summary": "Turkey and the United States are reportedly nearing a resolution regarding Turkey's exclusion from the F-35 fighter jet program and the associated CAATSA sanctions. Turkish Deputy Foreign Minister Levent Gumrukcu indicated that both sides are exploring options to satisfy legal and political considerations, with a joint working group established under the Trump administration. The potential sale of Turkey's Russian S-400 air defense systems to a third country is being considered as a step towards resolving the issue.",
+      "shortAnalysis": "The Greek Cypriot press, represented by Phileleftheros, reports on the Turkish Deputy Foreign Minister's statements with a focus on the F-35 issue and his comments regarding Greece's defense acquisitions. English-language sources provide more detail on the ongoing negotiations, the role of the Trump administration, and the potential mechanisms for resolving the dispute, such as the sale of S-400s. All reports confirm the core statement of progress in the F-35 and CAATSA discussions.",
+      "factualityStatement": "Turkish Deputy Foreign Minister Levent Gumrukcu stated that Turkey and the US are closer to resolving the F-35 and CAATSA sanctions dispute. A joint political and military working group has been established, and various options are being considered, including the potential sale of S-400 systems by Turkey.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 1,
+        "Turkish": 0,
+        "English": 0
+      },
+      "articles": [
+        {
+          "source": "Phileleftheros",
+          "community": "Greek",
+          "bias": "Center-Right",
+          "title": "Η Άγκυρα πιο κοντά από ποτέ στα F-35: Όταν η Ελλάδα αγοράζει αμυντικό εξοπλισμό δεν το σχολιάζουμε, προκαλεί ο αναπληρωτής ΥΠΕΞ της Τουρκίας (βίντεο)",
+          "link": "https://www.philenews.com/kosmos/article/1748359/i-agkira-pio-konta-apo-pote-sta-f-35-otan-i-ellada-agorazi-amintiko-exoplismo-den-to-scholiazoume-prokali-o-anaplirotis-ipex-tis-tourkias-vinteo/"
+        }
+      ]
+    },
+    {
+      "headline": "Peyia Beer Festival Approved with Strict Environmental Conditions",
+      "summary": "The Peyia Beer Festival received approval to proceed after the environment department imposed strict conditions to mitigate its impact on nearby protected areas, including Natura 2000 sites in the Akamas peninsula. Environmental groups had previously raised concerns about the festival's potential disturbance to sensitive species due to noise, lighting, and crowds. The department will conduct inspections to ensure compliance with the new regulations.",
+      "shortAnalysis": "The English Cypriot press provides a comprehensive view of the Peyia Beer Festival's approval, detailing both the environmental department's decision and the preceding concerns raised by environmental groups. The reporting is factual, outlining the conditions imposed and the reasons for the environmental groups' objections, particularly regarding the festival's proximity to protected Natura 2000 areas.",
+      "factualityStatement": "The Peyia Beer Festival was approved by the environment department subject to strict conditions regarding lighting, noise, and waste management. Environmental groups had expressed concerns about the festival's impact on protected Natura 2000 sites in the Akamas peninsula.",
+      "biasDistribution": {
+        "Left": 0,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 1,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 0,
+        "English": 1
+      },
+      "articles": [
+        {
+          "source": "Cyprus Mail",
+          "community": "English",
+          "bias": "Center-Right",
+          "title": "Peyia beer festival approved under environmental rules",
+          "link": "https://cyprus-mail.com/2026/07/18/peyia-beer-festival-approved-under-environmental-rules"
+        }
+      ]
+    },
+    {
+      "headline": "Rising Rents and Living Costs Burden Cypriot Students",
+      "summary": "Cypriot students are facing significant financial challenges due to high rents, tuition fees, and the overall cost of living, leading to calls for government intervention. The government has launched initiatives, including a student housing scheme and improvements to the 'Renovate and Rent' scheme, to address the chronic shortage of affordable student accommodation and stabilize rental prices. The issue of student housing and affordability is also being discussed at the EU level.",
+      "shortAnalysis": "The Greek Cypriot article highlights the struggles of students with rising costs, framing it as a 'wake-up call.' English-language reports provide more detailed information on government initiatives to tackle the housing crisis, including specific schemes for student accommodation and broader efforts to increase housing supply. Both communities acknowledge the severity of the issue, with English sources offering more on policy responses and the economic context in both the Republic of Cyprus and Turkish Cyprus.",
+      "factualityStatement": "Students in Cyprus are struggling with high rents, tuition fees, and living costs. The Cypriot government has introduced schemes to increase affordable student housing and address the broader housing shortage. The issue is also a subject of discussion at the EU level.",
+      "biasDistribution": {
+        "Left": 1,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 0,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 1,
+        "Turkish": 0,
+        "English": 0
+      },
+      "articles": [
+        {
+          "source": "Haravgi",
+          "community": "Greek",
+          "bias": "Left",
+          "title": "Καμπανάκι για τους φοιτητές: Ενοίκια, δίδακτρα και κόστος ζωής τους «γονατίζουν»",
+          "link": "https://dialogos.com.cy/kampanaki-gia-toys-foitites-enoikia-didaktra-kai-kostos-zois-toys-gonatizoyn/"
+        }
+      ]
+    },
+    {
+      "headline": "Turkish Cypriot Transport Minister Criticized Over Ancient Port Pier Comments",
+      "summary": "Turkish Cypriot Transport Minister Erhan Arıklı is facing criticism for his comments regarding the Ancient Port pier, particularly his statement that the UBP (National Unity Party) is the responsible party. This has led to questions about his role and accountability as a minister. The specific nature of the criticism suggests a political dispute over responsibility for the pier's issues.",
+      "shortAnalysis": "The Turkish Cypriot article reports on a direct criticism of the Transport Minister's remarks, highlighting a political disagreement within the Turkish Cypriot community regarding accountability for the Ancient Port pier. There is no immediate correlating coverage from Greek or English Cypriot media, suggesting this is currently a localized political discussion within the Turkish Cypriot political sphere.",
+      "factualityStatement": "Turkish Cypriot Transport Minister Erhan Arıklı made comments about the Ancient Port pier, stating that the UBP is the responsible party. This statement has drawn criticism from Faik Gencer, who questioned the Minister's position. No further details on the specific issues with the pier or the context of the Minister's comments are available in the provided articles or search results. ",
+      "biasDistribution": {
+        "Left": 1,
+        "Center-Left": 0,
+        "Center": 0,
+        "Center-Right": 0,
+        "Right": 0
+      },
+      "communityCoverage": {
+        "Greek": 0,
+        "Turkish": 1,
+        "English": 0
+      },
+      "articles": [
+        {
+          "source": "Yeni Duzen",
+          "community": "Turkish",
+          "bias": "Left",
+          "title": "“O zaman o makamda niye oturuyorsun?”",
+          "link": "https://www.yeniduzen.com/o-zaman-o-makamda-niye-oturuyorsun-197520h.htm"
+        }
+      ]
+    },
     {
       "headline": "President Christodoulides Announces Developments in Isaac and Solomou Murder Cases",
       "summary": "President Nikos Christodoulides announced that there have been developments regarding the 1996 murders of Tasos Isaac and Solomos Solomou in the Dherynia buffer zone. He stated that the government is taking necessary actions concerning those responsible for the killings, but details would not be made public, though he would inform the families privately. Christodoulides made these remarks while receiving motorcyclists who toured Greece to commemorate the 30th anniversary of the deaths, emphasizing the importance of honoring their memory and continuing their fight for freedom of movement and an end to the occupation.",

@@ -145,7 +145,20 @@ def main():
         return
 
     print("Analyzing and clustering stories with Gemini (with Google Search Grounding)...")
-    analyzed_stories = analyze_with_gemini(articles, args.days)
+    # Cap articles to 15 to prevent massive payloads from hanging the Gemini API
+    if len(articles) > 15:
+        print(f"Capping articles from {len(articles)} to 15 to ensure API stability.")
+        # Try to keep a mix from different communities
+        # For simplicity, we just take the first 15, but since they are appended by source, 
+        # let's distribute them by taking every Nth article or just slicing.
+        # We can just take the first 15 for now, or better, evenly sample.
+        step = len(articles) / 15
+        sampled_articles = [articles[int(i * step)] for i in range(15)]
+        articles_to_analyze = sampled_articles
+    else:
+        articles_to_analyze = articles
+
+    analyzed_stories = analyze_with_gemini(articles_to_analyze, args.days)
 
     data_dir = Path(__file__).parent.parent / 'public' / 'data'
     data_dir.mkdir(parents=True, exist_ok=True)
