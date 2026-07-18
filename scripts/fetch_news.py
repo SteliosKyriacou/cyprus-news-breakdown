@@ -2,6 +2,7 @@ import feedparser
 import json
 import os
 import time
+import argparse
 from datetime import datetime, timedelta
 from pathlib import Path
 from dotenv import load_dotenv
@@ -24,11 +25,11 @@ NEWS_SOURCES = [
     { "name": 'Kibris Postasi', "url": 'https://www.kibrispostasi.com/rss', "community": 'Turkish', "bias": 'Center-Right' }
 ]
 
-def fetch_all_feeds():
+def fetch_all_feeds(days=7):
     all_articles = []
     
-    # Calculate timestamp for 7 days ago
-    seven_days_ago = datetime.now() - timedelta(days=7)
+    # Calculate timestamp for X days ago
+    days_ago = datetime.now() - timedelta(days=days)
     
     for source in NEWS_SOURCES:
         try:
@@ -40,14 +41,14 @@ def fetch_all_feeds():
                 print(f"Failed to fetch {source['name']}: Status code {feed.status}")
                 continue
 
-            # Loop through all entries and filter by the last 7 days
+            # Loop through all entries and filter by the last X days
             valid_items = 0
             for item in feed.entries:
                 try:
                     if hasattr(item, 'published_parsed') and item.published_parsed:
                         pub_date = datetime.fromtimestamp(time.mktime(item.published_parsed))
-                        if pub_date < seven_days_ago:
-                            continue # Skip items older than 7 days
+                        if pub_date < days_ago:
+                            continue # Skip items older than X days
                 except Exception:
                     pass # If date parsing fails, keep it to be safe
                 
@@ -66,17 +67,17 @@ def fetch_all_feeds():
                 })
                 valid_items += 1
                 
-            print(f" -> Found {valid_items} articles from the last 7 days.")
+            print(f" -> Found {valid_items} articles from the last {days} days.")
         except Exception as e:
             print(f"Failed to fetch {source['name']}: {str(e)}")
             
     return all_articles
 
-def analyze_with_gemini(articles):
+def analyze_with_gemini(articles, days=7):
     # Pass all articles to the model since we are using the enterprise Vertex AI
     prompt = f"""
   You are an expert political analyst in Cyprus. 
-  I will provide you with a massive list of news articles published in the last 7 days from various Cypriot news sources across Greek, Turkish, and English communities.
+  I will provide you with a massive list of news articles published in the last {days} days from various Cypriot news sources across Greek, Turkish, and English communities.
   Your task is to translate and aggressively correlate these articles, grouping them into "Stories" (clusters of articles talking about the exact same event, topic, or overarching issue).
   
   CRITICAL: You are equipped with a Google Search tool. You MUST use it to search for related events in Cyprus this week to fill in gaps. For example, if a Greek article talks about an event, search the web to see how the Turkish or English press covered it this week, and intelligently link them together into the same Story!
@@ -130,21 +131,42 @@ def analyze_with_gemini(articles):
     return []
 
 def main():
-    print("Fetching news feeds for the past 7 days...")
-    articles = fetch_all_feeds()
+    parser = argparse.ArgumentParser(description="Fetch and analyze Cyprus news.")
+    parser.add_argument('--days', type=int, default=7, help='Number of days to look back.')
+    parser.add_argument('--append', action='store_true', help='Append to existing news instead of overwriting.')
+    args = parser.parse_args()
+
+    print(f"Fetching news feeds for the past {args.days} days...")
+    articles = fetch_all_feeds(args.days)
     print(f"Fetched {len(articles)} total articles.")
+    
+    if not articles:
+        print("No articles found in the given timeframe.")
+        return
 
     print("Analyzing and clustering stories with Gemini (with Google Search Grounding)...")
-    analyzed_stories = analyze_with_gemini(articles)
+    analyzed_stories = analyze_with_gemini(articles, args.days)
 
     data_dir = Path(__file__).parent.parent / 'public' / 'data'
     data_dir.mkdir(parents=True, exist_ok=True)
 
     output_file = data_dir / 'news.json'
     
+    final_stories = analyzed_stories
+    
+    if args.append and output_file.exists():
+        try:
+            with open(output_file, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+                existing_stories = existing_data.get("stories", [])
+                # Prepend new stories so they appear first
+                final_stories = analyzed_stories + existing_stories
+        except Exception as e:
+            print(f"Error loading existing news: {e}")
+
     final_data = {
         "lastUpdated": datetime.utcnow().isoformat() + "Z",
-        "stories": analyzed_stories
+        "stories": final_stories
     }
 
     with open(output_file, 'w', encoding='utf-8') as f:
